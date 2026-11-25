@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Free TOPIK Wongoji Practice — Q53 &amp; Q54 Answer Grid, Counter, Timer</title>
+<meta name="description" content="Free TOPIK II writing practice on a wongoji (원고지) grid. Type your Q53 or Q54 answer and see it laid out with the manuscript-paper rules, with a live square count, timer and printable grids.">
+<link rel="alternate" hreflang="en" href="https://multiply-studio-lab.github.io/paper-sprout/topik-wongoji/">
+<link rel="alternate" hreflang="vi" href="https://multiply-studio-lab.github.io/paper-sprout/topik-wongoji/vi/">
+<link rel="alternate" hreflang="ja" href="https://multiply-studio-lab.github.io/paper-sprout/topik-wongoji/ja/">
+<link rel="alternate" hreflang="ko" href="https://multiply-studio-lab.github.io/paper-sprout/topik-wongoji/ko/">
+<link rel="alternate" hreflang="x-default" href="https://multiply-studio-lab.github.io/paper-sprout/topik-wongoji/">
+<link rel="canonical" href="https://multiply-studio-lab.github.io/paper-sprout/topik-wongoji/">
+<style>
+:root{--ink:#1f2a44;--sub:#5b6478;--line:#c9d3e6;--acc:#2f6fdf;--ok:#2e8b57;--warn:#c9741f;--bad:#c0392b;--bg:#f6f8fc;--cell:24px}
+*{box-sizing:border-box}
+body{margin:0;font-family:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic","Noto Sans JP","Segoe UI",sans-serif;color:var(--ink);background:var(--bg);line-height:1.55}
+header{background:var(--ink);color:#fff;padding:18px 20px}
+header .in,main{max-width:1060px;margin:0 auto}
+header h1{margin:0;font-size:22px}
+header p{margin:4px 0 0;color:#c8d3ec;font-size:14px}
+.langs{float:right}
+.langs button{background:transparent;color:#c8d3ec;border:1px solid #4a5a82;border-radius:6px;padding:3px 8px;margin-left:4px;cursor:pointer;font-size:13px}
+.langs button.on{background:#fff;color:var(--ink)}
+main{padding:16px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:12px}
+.seg button,.btn{border:1px solid var(--line);background:#fff;color:var(--ink);padding:7px 12px;border-radius:8px;cursor:pointer;font-size:14px}
+.seg button.on{background:var(--acc);border-color:var(--acc);color:#fff}
+.btn.primary{background:var(--acc);color:#fff;border-color:var(--acc)}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.25fr);gap:16px}
+@media(max-width:860px){.cols{grid-template-columns:1fr}}
+.card{background:#fff;border:1px solid #e2e8f3;border-radius:12px;padding:14px}
+textarea{width:100%;min-height:260px;font-size:16px;font-family:inherit;border:1px solid var(--line);border-radius:8px;padding:10px;resize:vertical}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0}
+.stat{flex:1;min-width:110px;background:var(--bg);border-radius:8px;padding:8px 10px}
+.stat b{display:block;font-size:22px}
+.stat span{font-size:12px;color:var(--sub)}
+.ok b{color:var(--ok)}.warn b{color:var(--warn)}.bad b{color:var(--bad)}
+.meter{height:8px;background:#e7ecf5;border-radius:4px;position:relative;margin:4px 0 2px}
+.meter i{position:absolute;left:0;top:0;bottom:0;border-radius:4px;background:var(--acc)}
+.meter s{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--ink);opacity:.5}
+.notes{font-size:13px;color:var(--sub);margin:6px 0 0;padding-left:18px}
+.notes li.w{color:var(--warn)}
+.gridwrap{overflow-x:auto}
+table.g{border-collapse:collapse;margin:0 auto}
+table.g td{width:var(--cell);height:calc(var(--cell)*1.15);border:1px solid var(--line);text-align:center;font-size:calc(var(--cell)*.62);padding:0;white-space:nowrap;overflow:hidden}
+table.g td.pair{font-size:calc(var(--cell)*.45);letter-spacing:-.5px}
+table.g td.merged{font-size:calc(var(--cell)*.5)}
+table.g td.indent{background:#fbfcfe}
+table.g tr td:last-child{border-right:1px solid var(--line)}
+table.g td.mk{border:none;width:34px;font-size:10px;color:var(--sub);text-align:left;padding-left:4px}
+table.g tr.lim td:not(.mk){border-bottom:2px solid var(--acc)}
+.prompt{background:var(--bg);border-left:4px solid var(--acc);border-radius:6px;padding:10px 12px;font-size:14px}
+.prompt .q{font-weight:700;margin-bottom:6px}
+.prompt ul{margin:6px 0 0;padding-left:18px}
+.box{display:inline-block;vertical-align:top;border:1px solid var(--line);border-radius:6px;padding:4px 10px;margin:6px 6px 0 0;font-size:13px}
+.box b{color:#e0773a}
+details{margin-top:8px}
+summary{cursor:pointer;color:var(--acc);font-size:14px}
+.model{background:#fff;border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-size:14px;margin-top:6px;white-space:pre-wrap}
+.cta{margin-top:16px;background:var(--ink);color:#fff;border-radius:12px;padding:14px 16px}
+.cta a{color:#fff;background:var(--acc);padding:7px 12px;border-radius:8px;text-decoration:none;display:inline-block;margin:6px 6px 0 0;font-size:14px}
+.rules{font-size:13.5px}
+.rules li{margin:3px 0}
+footer{max-width:1060px;margin:10px auto 30px;padding:0 16px;font-size:12px;color:var(--sub)}
+.timer b{font-variant-numeric:tabular-nums}
+@media print{
+  header,.bar,.no-print,footer,.cta,textarea,.stats,.notes,details{display:none!important}
+  body{background:#fff}.card{border:none;padding:0}.cols{display:block}
+  :root{--cell:6.6mm}
+}
+</style>
+</head>
+<body>
+<header><div class="in">
+  <div class="langs" id="langs"></div>
+  <h1 id="t_title"></h1>
+  <p id="t_sub"></p>
+</div></header>
+<main>
+  <div class="bar no-print">
+    <div class="seg" id="modes"></div>
+    <div class="timer"><button class="btn" id="tbtn"></button> <b id="tclock">15:00</b> <button class="btn" id="treset"></button></div>
+    <button class="btn" id="bprompt"></button>
+    <button class="btn" id="bprint"></button>
+    <button class="btn" id="bclear"></button>
+  </div>
+  <div class="cols">
+    <div>
+      <div class="card no-print" id="promptcard" style="margin-bottom:12px"></div>
+      <div class="card">
+        <textarea id="ta" spellcheck="false"></textarea>
+        <div class="stats">
+          <div class="stat" id="s_used"><b>0</b><span></span></div>
+          <div class="stat" id="s_need"><b>—</b><span></span></div>
+          <div class="stat" id="s_rows"><b>0</b><span></span></div>
+        </div>
+        <div class="meter" id="meter"><i></i></div>
+        <ul class="notes" id="notes"></ul>
+      </div>
+    </div>
+    <div class="card">
+      <div class="gridwrap"><table class="g" id="grid"></table></div>
+    </div>
+  </div>
+  <div class="cta no-print" id="cta"></div>
+  <div class="card no-print" style="margin-top:16px">
+    <h3 id="t_rules" style="margin:0 0 6px"></h3>
+    <ol class="rules" id="rules"></ol>
+  </div>
+</main>
+<footer id="foot"></footer>
+
+<script>// TOPIK wongoji layout engine. Rules follow the TOPIK manuscript-paper guide:
+// one character per cell; first cell of each paragraph left blank; a line inside a paragraph never
+// starts with a blank cell; two Arabic numerals (or two lowercase Latin letters) share a cell;
+// uppercase letters take a cell each; punctuation takes its own cell; no blank cell after . or ,;
+// a blank cell after ? and !; ellipsis and dash take two cells; a . or , that would start a line
+// is written in the last cell of the previous line.
+(function (root) {
+  function units(par) {
+    var u = [], i = 0, s = par.replace(/\t/g, ' ');
+    while (i < s.length) {
+      var c = s[i];
+      if (/[0-9]/.test(c)) { // number run, decimal point / thousands comma kept inside the run
+        var j = i; while (j < s.length && (/[0-9]/.test(s[j]) || (/[.,]/.test(s[j]) && /[0-9]/.test(s[j + 1] || '') && /[0-9]/.test(s[j - 1] || '')))) j++;
+        var run = s.slice(i, j); for (var k = 0; k < run.length; k += 2) u.push({ t: 'pair', v: run.slice(k, k + 2) });
+        i = j; continue;
+      }
+      if (/[a-z]/.test(c)) {
+        var j2 = i; while (j2 < s.length && /[a-z]/.test(s[j2])) j2++;
+        var r2 = s.slice(i, j2); for (var k2 = 0; k2 < r2.length; k2 += 2) u.push({ t: 'pair', v: r2.slice(k2, k2 + 2) });
+        i = j2; continue;
+      }
+      if (c === '…' || s.slice(i, i + 3) === '...') { u.push({ t: 'two', v: '…' }); i += (c === '…' ? 1 : 3); continue; }
+      if (c === '—' || c === '―' || s.slice(i, i + 2) === '--') { u.push({ t: 'two', v: '―' }); i += (s.slice(i, i + 2) === '--' ? 2 : 1); continue; }
+      if (c === ' ') {
+        while (s[i + 1] === ' ') i++;
+        var prev = u[u.length - 1];
+        if (prev && prev.t === 'punct' && (prev.v === '.' || prev.v === ',')) { i++; continue; } // no blank after . ,
+        u.push({ t: 'space', v: '' }); i++; continue;
+      }
+      if (/[.,?!:;'"‘’“”()]/.test(c)) { u.push({ t: 'punct', v: c }); i++; continue; }
+      u.push({ t: 'char', v: c }); i++;
+    }
+    while (u.length && u[u.length - 1].t === 'space') u.pop();
+    return u;
+  }
+
+  // returns {rows: [[{v, kind}]], used: number of cells up to the last written cell}
+  function layout(text, cols) {
+    cols = cols || 25;
+    var rows = [], row = null, used = 0;
+    function newRow() { row = []; rows.push(row); }
+    var pars = text.replace(/\r/g, '').split('\n').map(function (p) { return p.replace(/^\s+/, ''); }).filter(function (p) { return p.length; });
+    pars.forEach(function (p) {
+      newRow();
+      row.push({ v: '', kind: 'indent' });
+      units(p).forEach(function (un) {
+        if (row.length === cols) {
+          // a period or comma never starts a line: put it in the last cell of this line
+          if (un.t === 'punct' && (un.v === '.' || un.v === ',')) { var last = row[row.length - 1]; last.v += un.v; last.kind = 'merged'; return; }
+          newRow();
+          if (un.t === 'space') return; // a line inside a paragraph never starts with a blank
+        }
+        if (un.t === 'two') { row.push({ v: un.v, kind: 'two' }); if (row.length === cols) newRow(); row.push({ v: un.v, kind: 'two' }); return; }
+        row.push({ v: un.v, kind: un.t });
+      });
+    });
+    // used = cells up to and including the last non-blank cell
+    for (var r = 0; r < rows.length; r++) {
+      for (var c2 = 0; c2 < rows[r].length; c2++) if (rows[r][c2].kind !== 'space' && rows[r][c2].kind !== 'indent') used = r * cols + c2 + 1;
+    }
+    return { rows: rows, used: used };
+  }
+  root.Wongoji = { units: units, layout: layout };
+})(typeof window !== 'undefined' ? window : globalThis);
+</script>
+<script>
+var LINKS = {"sample": "", "q51": "", "q53": "", "q54": "", "bundle": ""};
+var CONTENT = {"drills": [{"id": 1, "topic": "1인 가구 비율의 변화", "charts": [{"type": "line", "title": "전체 가구 중 1인 가구 비율", "x": ["2005", "2015", "2025"], "y": [20, 27, 36], "unit": "%"}], "boxes": [["원인", ["결혼 연령 상승", "고령화로 혼자 사는 노인 증가"]], ["전망", ["2040년 43% 예상"]]], "answer": "한국생활연구소의 조사에 따르면 전체 가구 중 1인 가구가 차지하는 비율은 2005년 20%에서 2015년 27%로 증가하였고, 2025년에는 36%로 크게 늘어난 것으로 나타났다. 20년 사이에 1인 가구의 비율이 16%p 높아진 것이다. 이렇게 1인 가구가 증가한 원인으로는 결혼 연령이 높아진 것과 고령화로 인해 혼자 사는 노인이 많아진 것을 들 수 있다. 이러한 추세가 계속된다면 2040년에는 1인 가구의 비율이 43%에 이를 것으로 전망된다."}, {"id": 2, "topic": "반려동물 양육 가구의 증가", "charts": [{"type": "bar", "title": "반려동물 양육 가구 수", "x": ["2016", "2020", "2024"], "y": [500, 600, 700], "unit": "만 가구"}], "boxes": [["원인", ["1인 가구 증가", "정서적 안정 추구"]], ["영향", ["반려동물 관련 산업 성장"]]], "answer": "한국생활연구소에서 반려동물을 기르는 가구 수를 조사한 결과, 2016년 500만 가구에서 2020년 600만 가구, 2024년 700만 가구로 꾸준히 증가한 것으로 나타났다. 4년마다 100만 가구씩 늘어 8년 동안 모두 200만 가구가 증가한 것이다. 이처럼 반려동물 양육 가구가 늘어난 이유는 1인 가구가 증가하고 반려동물을 통해 정서적 안정을 얻으려는 사람이 많아졌기 때문이다. 이에 따라 반려동물 관련 산업도 함께 성장하고 있다."}, {"id": 3, "topic": "종이 신문 구독률의 감소", "charts": [{"type": "line", "title": "종이 신문 구독 가구 비율", "x": ["2010", "2017", "2024"], "y": [50, 25, 8], "unit": "%"}], "boxes": [["원인", ["스마트폰 보급", "무료 온라인 뉴스"]], ["전망", ["온라인 유료 구독 서비스 강화"]]], "answer": "한국생활연구소의 조사에 따르면 종이 신문을 구독하는 가구의 비율은 2010년 50%에서 2017년 25%로 떨어져 절반 수준이 되었고, 2024년에는 8%에 불과한 것으로 나타났다. 14년 사이에 구독률이 크게 낮아진 것이다. 이렇게 구독률이 감소한 원인으로는 스마트폰이 널리 보급되었다는 점과 온라인에서 뉴스를 무료로 볼 수 있다는 점을 들 수 있다. 앞으로는 온라인 유료 구독 서비스가 더욱 강화될 것으로 전망된다."}], "essays": [{"id": 1, "topic": "인공지능 시대에 필요한 능력", "intro": "인공지능 기술이 빠르게 발전하면서 많은 일이 자동화되고 있다. 아래의 내용을 중심으로 '인공지능 시대에 필요한 능력'에 대한 자신의 생각을 쓰라.", "questions": ["인공지능의 발전이 우리 삶에 가져온 변화는 무엇인가?", "인공지능 시대에 사람에게 필요한 능력은 무엇인가?", "그러한 능력을 기르기 위해 어떤 노력이 필요한가?"], "answer": "최근 인공지능이 일상과 일터에서 널리 쓰이면서 우리의 삶은 크게 달라지고 있다. 과거에는 사람이 직접 해야 했던 번역, 자료 정리, 고객 상담 같은 일을 이제는 인공지능이 짧은 시간 안에 처리한다. 덕분에 일의 효율은 높아졌지만, 한편으로는 사람의 일자리가 줄어들 것이라는 걱정도 커지고 있다. 이처럼 인공지능은 우리 생활을 편리하게 만들었지만, 동시에 사람이 어떤 능력을 갖추어야 하는지에 대한 새로운 질문을 던지고 있다.\n이러한 시대에 사람이 갖추어야 할 능력은 크게 두 가지이다. 첫째, 비판적으로 생각하는 능력이다. 인공지능이 내놓는 정보가 항상 정확한 것은 아니기 때문에 그 내용이 맞는지 판단하고 올바르게 활용할 수 있어야 한다. 둘째, 다른 사람과 소통하고 협력하는 능력이다. 기계가 많은 일을 대신하더라도 사람의 마음을 이해하고 함께 문제를 해결하는 일은 여전히 사람의 몫이다.\n이러한 능력을 기르기 위해서는 먼저 정답을 외우는 교육에서 벗어나 스스로 질문하고 토론하는 교육이 이루어져야 한다. 또한 개인도 새로운 기술을 두려워하기보다 적극적으로 배우고, 그 기술을 어떻게 사용해야 하는지 고민하는 태도를 가져야 한다. 인공지능은 사람을 대신하는 존재가 아니라 사람의 능력을 넓혀 주는 도구가 되어야 한다고 생각한다."}, {"id": 2, "topic": "칭찬의 효과와 올바른 칭찬 방법", "intro": "칭찬은 사람을 움직이는 힘이 있다고 한다. 그러나 잘못된 칭찬은 오히려 부정적인 결과를 가져오기도 한다. 아래의 내용을 중심으로 '칭찬의 효과와 올바른 칭찬 방법'에 대한 자신의 생각을 쓰라.", "questions": ["칭찬은 어떤 긍정적인 효과가 있는가?", "잘못된 칭찬은 어떤 문제를 일으키는가?", "올바르게 칭찬하려면 어떻게 해야 하는가?"], "answer": "칭찬은 듣는 사람에게 자신감을 주고 새로운 일에 도전할 수 있는 힘을 준다. 특히 아이들은 부모나 선생님에게 칭찬을 받으면 자신이 인정받았다고 느끼고 공부나 활동에 더 큰 관심을 갖게 된다. 직장에서도 동료나 상사의 칭찬은 일에 대한 동기를 높이고 서로의 관계를 좋게 만든다. 이처럼 칭찬은 사람의 마음을 움직여 스스로 더 잘하고 싶다는 생각을 하게 만든다.\n그러나 모든 칭찬이 좋은 결과를 가져오는 것은 아니다. 노력보다 타고난 능력만 칭찬하면 듣는 사람은 실패를 두려워하게 되고 어려운 일을 피하려고 할 수 있다. 또한 마음에 없는 칭찬을 지나치게 자주 하면 칭찬의 가치가 떨어지고, 상대방은 그 말을 진심으로 받아들이지 않게 된다. 결과만 칭찬받은 사람은 다음에도 좋은 결과를 내야 한다는 부담 때문에 오히려 불안해질 수도 있다.\n따라서 올바르게 칭찬하기 위해서는 결과보다 과정을 칭찬하는 것이 중요하다. 예를 들어 \"머리가 좋구나\"보다 \"끝까지 열심히 노력했구나\"라고 말하면 상대방은 노력의 가치를 배우게 된다. 그리고 막연하게 \"잘했다\"라고 말하기보다 무엇을 잘했는지 구체적으로 말해 주어야 한다. 칭찬할 때 다른 사람과 비교하지 않는 것도 중요하다. 이처럼 진심을 담아 구체적으로 칭찬한다면 칭찬은 사람을 성장시키는 좋은 도구가 될 것이다."}]};
+var T = {"en": {"title": "Free TOPIK Wongoji Practice", "sub": "Type your Q53 or Q54 answer and see it laid out on a 원고지 grid with the TOPIK manuscript-paper rules. Live square count, timer, practice prompts and printable grids.", "free": "Free writing", "start": "Start timer", "pause": "Pause", "reset": "Reset", "prompt": "Practice prompt ▸", "print": "Print / PDF", "clear": "Clear", "sure": "Click again to clear", "ph": "Start typing in Korean. Press Enter to start a new paragraph — the indent is added for you.", "used": "squares used", "more": "{n} more squares needed", "over": "{n} squares over the limit", "inrange": "In range ✓", "freemode": "No length limit", "rows": "rows", "polite": "{n} sentence(s) end in -요 or -니다. TOPIK Q53 and Q54 expect plain written style (-다).", "nospace": "No blank square is left after a period or comma, so those spaces are not counted.", "digits": "Two numerals share one square (2025 → [20][25]).", "qmark": "Leave one blank square after ? or !.", "onepara": "Q53 answers are usually written as one paragraph.", "threepara": "Q54 essays usually have three paragraphs (one per guiding question). Press Enter to start a new paragraph.", "noprompt": "Write anything, or press “Practice prompt” for a free Q53 chart or Q54 essay task.", "fict": "Fictional practice data (연습용 가상 자료).", "model": "Show model answer (try it yourself first)", "rulesh": "Wongoji rules used in this tool", "rules": ["One Korean character per square. A space takes one square and counts toward your total.", "Leave the first square blank at the start of each paragraph.", "Inside a paragraph, a line never starts with a blank square: if a space falls at the end of a line, the next line starts in the first square.", "Two Arabic numerals or two lowercase letters share one square. Each capital letter takes its own square.", "Punctuation takes its own square. No blank square after a period or comma; leave one blank square after ? and !.", "An ellipsis (…) or a dash (―) takes two squares.", "A period or comma that would start a new line goes into the last square of the line before.", "This practice grid has 25 squares per row. The layout of the official answer sheet may differ, so rely on the square count."], "ctah": "Want more practice?", "ctap": "20 Q53 graph drills and 10 Q54 essay prompts, each with a length-checked model answer.", "soon": "Practice packs: coming soon.", "l_sample": "Free sample (3 drills)", "l_q51": "Q51–52 sentence pack", "l_q53": "Q53 drill pack", "l_q54": "Q54 essay pack", "l_bundle": "Complete set (Q51–54)", "foot": "Independent practice tool, not affiliated with or endorsed by NIIED, the organization that administers TOPIK. Your text stays in your browser and is not sent anywhere."}, "vi": {"title": "Luyện viết TOPIK trên giấy ô vuông (원고지) miễn phí", "sub": "Gõ bài câu 53 hoặc câu 54 và xem bài được xếp vào giấy ô vuông theo đúng quy tắc của TOPIK. Đếm ô theo thời gian thực, đồng hồ bấm giờ, đề luyện tập và in giấy ô vuông.", "free": "Viết tự do", "start": "Bắt đầu bấm giờ", "pause": "Tạm dừng", "reset": "Đặt lại", "prompt": "Đề luyện tập ▸", "print": "In / PDF", "clear": "Xóa", "sure": "Nhấn lần nữa để xóa", "ph": "Hãy gõ bằng tiếng Hàn. Nhấn Enter để sang đoạn mới — ô thụt đầu dòng sẽ được thêm tự động.", "used": "ô đã dùng", "more": "Cần thêm {n} ô", "over": "Vượt quá {n} ô", "inrange": "Đạt yêu cầu ✓", "freemode": "Không giới hạn độ dài", "rows": "dòng", "polite": "Có {n} câu kết thúc bằng -요 hoặc -니다. Câu 53 và 54 cần dùng văn viết (-다).", "nospace": "Sau dấu chấm và dấu phẩy không để trống ô, nên các dấu cách đó không được tính.", "digits": "Hai chữ số viết chung một ô (2025 → [20][25]).", "qmark": "Sau dấu ? hoặc ! để trống một ô.", "onepara": "Bài câu 53 thường được viết thành một đoạn.", "threepara": "Bài câu 54 thường có ba đoạn (mỗi đoạn trả lời một câu hỏi gợi ý). Nhấn Enter để sang đoạn mới.", "noprompt": "Bạn có thể viết tự do, hoặc nhấn “Đề luyện tập” để nhận đề biểu đồ câu 53 hoặc đề nghị luận câu 54 miễn phí.", "fict": "Số liệu giả định dùng để luyện tập (연습용 가상 자료).", "model": "Xem bài mẫu (hãy tự viết trước)", "rulesh": "Quy tắc giấy ô vuông được áp dụng", "rules": ["Mỗi ô viết một chữ tiếng Hàn. Dấu cách chiếm một ô và được tính vào tổng số.", "Để trống ô đầu tiên khi bắt đầu mỗi đoạn.", "Trong một đoạn, dòng mới không bắt đầu bằng ô trống: nếu dấu cách rơi vào cuối dòng, dòng sau viết từ ô đầu tiên.", "Hai chữ số Ả Rập hoặc hai chữ cái thường viết chung một ô. Mỗi chữ cái in hoa chiếm một ô.", "Dấu câu chiếm một ô riêng. Không để trống ô sau dấu chấm và dấu phẩy; để trống một ô sau dấu ? và !.", "Dấu ba chấm (…) và dấu gạch ngang (―) chiếm hai ô.", "Dấu chấm hoặc dấu phẩy rơi vào đầu dòng mới thì viết vào ô cuối của dòng trước.", "Giấy luyện tập này có 25 ô mỗi dòng. Mẫu giấy thi chính thức có thể khác, vì vậy hãy dựa vào số ô đã dùng."], "ctah": "Muốn luyện thêm?", "ctap": "20 bài luyện biểu đồ câu 53 và 10 đề nghị luận câu 54, kèm bài mẫu đã kiểm tra độ dài.", "soon": "Bộ tài liệu luyện tập: sắp ra mắt.", "l_sample": "Bản dùng thử miễn phí (3 bài)", "l_q51": "Bộ luyện câu 51–52", "l_q53": "Bộ luyện câu 53", "l_q54": "Bộ luyện câu 54", "l_bundle": "Trọn bộ câu 51–54", "foot": "Công cụ luyện tập độc lập, không liên kết và không được bảo trợ bởi NIIED, cơ quan tổ chức kỳ thi TOPIK. Bài viết của bạn chỉ lưu trên trình duyệt và không được gửi đi đâu."}, "ja": {"title": "無料 TOPIK 原稿用紙(원고지)練習ツール", "sub": "53番・54番の解答を入力すると、TOPIKの原稿用紙ルールに沿ってマス目に配置します。マス数のリアルタイム表示、タイマー、練習問題、印刷用の原稿用紙つき。", "free": "自由作文", "start": "タイマー開始", "pause": "一時停止", "reset": "リセット", "prompt": "練習問題 ▸", "print": "印刷 / PDF", "clear": "消去", "sure": "もう一度押すと消去します", "ph": "韓国語で入力してください。Enterで段落を変えると、字下げは自動で入ります。", "used": "使用マス数", "more": "あと{n}マス必要", "over": "上限を{n}マス超過", "inrange": "範囲内 ✓", "freemode": "字数制限なし", "rows": "行", "polite": "-요 または -니다 で終わる文が{n}文あります。53番・54番は書き言葉(-다体)で書きます。", "nospace": "句点(.)と読点(,)の後はマスを空けないため、その後のスペースは数えません。", "digits": "数字は2つで1マスに書きます(2025 → [20][25])。", "qmark": "? と ! の後は1マス空けます。", "onepara": "53番の解答はふつう1段落で書きます。", "threepara": "54番はふつう3段落(問いごとに1段落)で書きます。Enterで段落を変えられます。", "noprompt": "自由に書くか、「練習問題」を押して53番のグラフ問題・54番の作文問題(無料)に挑戦してください。", "fict": "練習用の架空データです(연습용 가상 자료)。", "model": "模範解答を見る(先に自分で書いてみましょう)", "rulesh": "このツールで使っている原稿用紙のルール", "rules": ["1マスに韓国語1文字。スペースも1マスで、字数に含まれます。", "段落の始めは1マス目を空けます。", "段落の途中では行頭を空けません。行末でスペースが必要なときは、次の行の1マス目から書きます。", "算用数字・英小文字は2つで1マス、英大文字は1文字で1マスです。", "記号は1マスに1つ書きます。句点・読点の後は空けず、? と ! の後は1マス空けます。", "省略記号(…)とダッシュ(―)は2マス使います。", "行頭に来る句点・読点は、前の行の最後のマスに書きます。", "この練習用原稿用紙は1行25マスです。実際の解答用紙とは形式が異なる場合があるので、使用マス数を目安にしてください。"], "ctah": "もっと練習したい方へ", "ctap": "53番のグラフ問題20題と54番の作文問題10題。すべて字数を確認した模範解答つき。", "soon": "練習パック:近日公開", "l_sample": "無料サンプル(3題)", "l_q51": "51・52番 練習パック", "l_q53": "53番 練習パック", "l_q54": "54番 作文パック", "l_bundle": "51〜54番 全セット", "foot": "独自の練習ツールです。TOPIKを実施する国立国際教育院(NIIED)とは関係ありません。入力した文章はブラウザ内にのみ保存され、外部には送信されません。"}, "ko": {"title": "무료 TOPIK 원고지 연습기", "sub": "53번·54번 답안을 입력하면 TOPIK 원고지 규칙에 맞게 칸에 배치합니다. 실시간 칸 수, 타이머, 연습 문제, 원고지 인쇄 기능을 제공합니다.", "free": "자유 쓰기", "start": "타이머 시작", "pause": "일시 정지", "reset": "초기화", "prompt": "연습 문제 ▸", "print": "인쇄 / PDF", "clear": "지우기", "sure": "한 번 더 누르면 지워집니다", "ph": "한국어로 입력하세요. Enter를 누르면 새 문단이 시작되고 들여쓰기는 자동으로 들어갑니다.", "used": "사용한 칸", "more": "{n}칸 더 필요", "over": "{n}칸 초과", "inrange": "분량 충족 ✓", "freemode": "분량 제한 없음", "rows": "줄", "polite": "-요 또는 -니다로 끝난 문장이 {n}개 있습니다. 53번과 54번은 문어체(-다)로 써야 합니다.", "nospace": "마침표와 쉼표 뒤에는 칸을 비우지 않으므로 그 띄어쓰기는 세지 않습니다.", "digits": "아라비아 숫자는 한 칸에 두 자씩 씁니다(2025 → [20][25]).", "qmark": "물음표와 느낌표 뒤에는 한 칸을 비웁니다.", "onepara": "53번 답안은 보통 한 문단으로 씁니다.", "threepara": "54번은 보통 세 문단(질문 하나에 한 문단)으로 씁니다. Enter로 문단을 나누세요.", "noprompt": "자유롭게 쓰거나 '연습 문제'를 눌러 무료 53번 그래프 문제와 54번 논술 문제를 풀어 보세요.", "fict": "연습용 가상 자료입니다.", "model": "모범 답안 보기 (먼저 직접 써 보세요)", "rulesh": "이 도구에 적용한 원고지 규칙", "rules": ["한 칸에 한 글자씩 씁니다. 띄어쓰기도 한 칸이며 글자 수에 포함됩니다.", "문단을 시작할 때는 첫 칸을 비웁니다.", "한 문단 안에서는 줄의 첫 칸을 비우지 않습니다. 줄 끝에서 띄어 써야 하면 다음 줄 첫 칸부터 씁니다.", "아라비아 숫자와 알파벳 소문자는 한 칸에 두 자씩, 대문자는 한 칸에 한 자씩 씁니다.", "문장 부호는 한 칸에 하나씩 씁니다. 마침표와 쉼표 뒤에는 칸을 비우지 않고, 물음표와 느낌표 뒤에는 한 칸을 비웁니다.", "줄임표(…)와 줄표(―)는 두 칸에 씁니다.", "줄의 첫 칸에 올 마침표나 쉼표는 앞 줄의 마지막 칸에 함께 씁니다.", "이 연습용 원고지는 한 줄이 25칸입니다. 실제 답안지 양식과 다를 수 있으므로 사용한 칸 수를 기준으로 하세요."], "ctah": "더 연습하고 싶다면", "ctap": "53번 그래프 문제 20개와 54번 논술 문제 10개, 모두 분량을 확인한 모범 답안 포함.", "soon": "연습 팩: 곧 공개됩니다.", "l_sample": "무료 샘플 (3문제)", "l_q51": "51~52번 문장 완성 팩", "l_q53": "53번 연습 팩", "l_q54": "54번 논술 팩", "l_bundle": "51~54번 전체 세트", "foot": "독립적으로 만든 연습 도구이며, TOPIK을 주관하는 국립국제교육원(NIIED)과 관련이 없습니다. 입력한 글은 브라우저에만 저장되고 어디로도 전송되지 않습니다."}};
+var COLS = 25, MODES = {q53:[200,300,15], q54:[600,700,30], free:[0,0,30]};
+var st = {lang:'en', mode:'q53', prompt:-1, left:900, run:false, timer:null};
+function store(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v)}catch(e){return null}}
+function t(k){return (T[st.lang]&&T[st.lang][k])||T.en[k]||k}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+
+function chartSVG(c){
+  var W=360,H=170,P=30,x=c.x,y=c.y||null,series=c.series||null,u=c.unit,out='<svg viewBox="0 0 '+W+' '+H+'" width="100%" role="img" aria-label="'+esc(c.title)+'"><text x="4" y="14" font-size="12" font-weight="700" fill="#1f2a44">'+esc(c.title)+'</text>';
+  function fmt(v){return String(v).replace(/\B(?=(\d{3})+(?!\d))/g,',')+u}
+  if(c.type==='hbar'){var mx=Math.max.apply(null,y);x.forEach(function(l,i){var yy=28+i*(H-36)/x.length,w=(W-170)*y[i]/mx;out+='<text x="4" y="'+(yy+12)+'" font-size="10">'+esc(l)+'</text><rect x="150" y="'+(yy+2)+'" width="'+w+'" height="14" fill="#2f6fdf"/><text x="'+(154+w)+'" y="'+(yy+13)+'" font-size="10" font-weight="700">'+fmt(y[i])+'</text>'});return out+'</svg>'}
+  if(c.type==='pie'){var tot=y.reduce(function(a,b){return a+b},0),a0=-Math.PI/2,cols=['#2f6fdf','#e0773a','#4aa37a','#8a63c9','#9aa3b5'];y.forEach(function(v,i){var a1=a0+2*Math.PI*v/tot,lg=(a1-a0)>Math.PI?1:0,cx=90,cy=95,r=58;out+='<path d="M'+cx+','+cy+' L'+(cx+r*Math.cos(a0))+','+(cy+r*Math.sin(a0))+' A'+r+','+r+' 0 '+lg+' 1 '+(cx+r*Math.cos(a1))+','+(cy+r*Math.sin(a1))+' Z" fill="'+cols[i]+'"/>';out+='<rect x="175" y="'+(32+i*20)+'" width="10" height="10" fill="'+cols[i]+'"/><text x="190" y="'+(41+i*20)+'" font-size="11">'+esc(x[i])+' '+fmt(v)+'</text>';a0=a1});return out+'</svg>'}
+  var sets=series?Object.keys(series).map(function(k){return [k,series[k]]}):[[null,y]],all=[].concat.apply([],sets.map(function(s){return s[1]})),mx2=Math.max.apply(null,all)*1.25,n=x.length,cw=(W-2*P)/n,colr=['#2f6fdf','#e0773a'];
+  function Y(v){return H-22-(H-50)*v/mx2}
+  sets.forEach(function(s,si){
+    var pts=[];x.forEach(function(l,i){var cx=P+cw*i+cw/2,yy=Y(s[1][i]);
+      if(c.type==='bar'||c.type==='groupbar'){var bw=cw*0.6/sets.length,bx=P+cw*i+cw*0.2+bw*si;out+='<rect x="'+bx+'" y="'+yy+'" width="'+bw+'" height="'+(H-22-yy)+'" fill="'+colr[si]+'"/><text x="'+(bx+bw/2)+'" y="'+(yy-3)+'" font-size="9" text-anchor="middle">'+fmt(s[1][i])+'</text>'}
+      else{pts.push(cx+','+yy);out+='<circle cx="'+cx+'" cy="'+yy+'" r="3" fill="'+colr[si]+'"/><text x="'+cx+'" y="'+(yy-6)+'" font-size="9" text-anchor="middle">'+fmt(s[1][i])+'</text>'}});
+    if(pts.length)out+='<polyline points="'+pts.join(' ')+'" fill="none" stroke="'+colr[si]+'" stroke-width="2"/>';
+    if(s[0])out+='<rect x="'+(W-110)+'" y="'+(6+si*14)+'" width="9" height="9" fill="'+colr[si]+'"/><text x="'+(W-97)+'" y="'+(14+si*14)+'" font-size="10">'+esc(s[0])+'</text>';
+  });
+  x.forEach(function(l,i){out+='<text x="'+(P+cw*i+cw/2)+'" y="'+(H-6)+'" font-size="10" text-anchor="middle">'+esc(l)+'</text>'});
+  return out+'<line x1="'+P+'" y1="'+(H-22)+'" x2="'+(W-P)+'" y2="'+(H-22)+'" stroke="#c9d3e6"/></svg>';
+}
+
+function renderPrompt(){
+  var el=document.getElementById('promptcard');
+  if(st.prompt<0||st.mode==='free'){el.innerHTML='<div class="prompt">'+esc(t('noprompt'))+'</div>';return}
+  var h='';
+  if(st.mode==='q53'){var d=CONTENT.drills[st.prompt];
+    h+='<div class="prompt"><div class="q">'+esc("다음은 '"+d.topic+"'에 대한 자료이다. 이 내용을 200~300자의 글로 쓰시오. 단, 글의 제목은 쓰지 마시오. (30점)")+'</div>';
+    d.charts.forEach(function(c){h+=chartSVG(c)});
+    d.boxes.forEach(function(b){h+='<span class="box"><b>'+esc(b[0])+'</b> '+esc(b[1].join(' · '))+'</span>'});
+    h+='<div style="font-size:11px;color:#5b6478;margin-top:4px">'+esc(t('fict'))+'</div></div>';
+    h+='<details><summary>'+esc(t('model'))+'</summary><div class="model">'+esc(d.answer)+'</div></details>';
+  }else{var e=CONTENT.essays[st.prompt];
+    h+='<div class="prompt"><div class="q">'+esc('다음을 참고하여 600~700자로 글을 쓰시오. 단, 문제를 그대로 옮겨 쓰지 마시오. (50점)')+'</div>'+esc(e.intro)+'<ul>'+e.questions.map(function(q){return '<li>'+esc(q)+'</li>'}).join('')+'</ul></div>';
+    h+='<details><summary>'+esc(t('model'))+'</summary><div class="model">'+esc(e.answer)+'</div></details>';
+  }
+  el.innerHTML=h;
+}
+
+function render(){
+  var text=document.getElementById('ta').value, L=Wongoji.layout(text,COLS), m=MODES[st.mode];
+  var rowsNeeded=Math.max(L.rows.length, m[1]?Math.ceil(m[1]/COLS):12, 8);
+  var g='';
+  for(var r=0;r<rowsNeeded;r++){
+    var row=L.rows[r]||[], lim=m[1]&&((r+1)*COLS===m[0]||(r+1)*COLS===m[1]);
+    g+='<tr'+(lim?' class="lim"':'')+'>';
+    for(var c=0;c<COLS;c++){var cell=row[c];g+='<td class="'+(cell?cell.kind:'')+'">'+(cell?esc(cell.v):'')+'</td>'}
+    g+='<td class="mk">'+(((r+1)*COLS)%50===0?(r+1)*COLS:'')+'</td></tr>';
+  }
+  document.getElementById('grid').innerHTML=g;
+  var u=L.used, s=document.getElementById('s_used');
+  s.querySelector('b').textContent=u; s.querySelector('span').textContent=t('used');
+  var need=document.getElementById('s_need');
+  if(m[1]){
+    var cls=u<m[0]?(u<m[0]*0.9?'bad':'warn'):(u>m[1]?'bad':'ok');
+    s.className='stat '+cls;
+    need.querySelector('b').textContent=m[0]+'–'+m[1];
+    need.querySelector('span').textContent=u<m[0]?t('more').replace('{n}',m[0]-u):(u>m[1]?t('over').replace('{n}',u-m[1]):t('inrange'));
+    var mi=document.getElementById('meter');mi.style.display='';
+    mi.innerHTML='<i style="width:'+Math.min(100,u/m[1]*100)+'%;background:'+(cls==='ok'?'#2e8b57':cls==='warn'?'#c9741f':'#c0392b')+'"></i><s style="left:'+(m[0]/m[1]*100)+'%"></s>';
+  }else{s.className='stat';need.querySelector('b').textContent='—';need.querySelector('span').textContent=t('freemode');document.getElementById('meter').style.display='none'}
+  var rs=document.getElementById('s_rows');rs.querySelector('b').textContent=L.rows.length;rs.querySelector('span').textContent=t('rows');
+  var notes=[], polite=(text.match(/(요|니다)[.?!]/g)||[]).length;
+  if(polite&&st.mode!=='free')notes.push(['w',t('polite').replace('{n}',polite)]);
+  if(/\.\s/.test(text))notes.push(['',t('nospace')]);
+  if(/[0-9]{2}/.test(text))notes.push(['',t('digits')]);
+  if(/\?|!/.test(text))notes.push(['',t('qmark')]);
+  if(st.mode==='q53'&&text.split('\n').filter(function(p){return p.trim()}).length>1)notes.push(['',t('onepara')]);
+  if(st.mode==='q54'&&u>200&&text.split('\n').filter(function(p){return p.trim()}).length<3)notes.push(['w',t('threepara')]);
+  document.getElementById('notes').innerHTML=notes.map(function(n){return '<li class="'+n[0]+'">'+esc(n[1])+'</li>'}).join('');
+  store('wg_'+st.mode,text);
+}
+
+function setMode(m){st.mode=m;st.prompt=-1;document.getElementById('ta').value=store('wg_'+m)||'';resetTimer();ui()}
+function resetTimer(){st.run=false;clearInterval(st.timer);st.left=MODES[st.mode][2]*60;clock()}
+function clock(){var mm=Math.floor(st.left/60),ss=st.left%60;document.getElementById('tclock').textContent=(mm<10?'0':'')+mm+':'+(ss<10?'0':'')+ss;document.getElementById('tbtn').textContent=st.run?t('pause'):t('start')}
+function tick(){if(st.left>0){st.left--;clock()}if(st.left===0){st.run=false;clearInterval(st.timer);clock()}}
+
+function ui(){
+  document.documentElement.lang=st.lang;
+  document.getElementById('t_title').textContent=t('title');document.getElementById('t_sub').textContent=t('sub');
+  document.getElementById('langs').innerHTML=[['en','EN'],['vi','VI'],['ja','日本語'],['ko','한국어']].map(function(l){return '<button data-l="'+l[0]+'" class="'+(st.lang===l[0]?'on':'')+'">'+l[1]+'</button>'}).join('');
+  document.getElementById('modes').innerHTML=[['q53','Q53 · 200–300'],['q54','Q54 · 600–700'],['free',t('free')]].map(function(m){return '<button data-m="'+m[0]+'" class="'+(st.mode===m[0]?'on':'')+'">'+m[1]+'</button>'}).join('');
+  ['tbtn','treset','bprompt','bprint','bclear'].forEach(function(id){});
+  document.getElementById('treset').textContent=t('reset');document.getElementById('bprompt').textContent=t('prompt');document.getElementById('bprint').textContent=t('print');document.getElementById('bclear').textContent=t('clear');
+  document.getElementById('ta').placeholder=t('ph');
+  document.getElementById('t_rules').textContent=t('rulesh');
+  document.getElementById('rules').innerHTML=t('rules').map(function(r){return '<li>'+esc(r)+'</li>'}).join('');
+  var links=Object.keys(LINKS).filter(function(k){return LINKS[k]});
+  document.getElementById('cta').innerHTML='<b>'+esc(t('ctah'))+'</b><div style="font-size:14px;color:#c8d3ec;margin-top:4px">'+esc(t('ctap'))+'</div>'+(links.length?links.map(function(k){return '<a href="'+esc(LINKS[k])+'" target="_blank" rel="noopener">'+esc(t('l_'+k))+'</a>'}).join(''):'<div style="margin-top:6px;font-size:13px">'+esc(t('soon'))+'</div>');
+  document.getElementById('foot').textContent=t('foot');
+  clock();renderPrompt();render();
+}
+
+document.addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;
+  if(b.dataset.l){st.lang=b.dataset.l;store('wg_lang',st.lang);ui()}
+  else if(b.dataset.m){setMode(b.dataset.m)}
+  else if(b.id==='tbtn'){st.run=!st.run;clearInterval(st.timer);if(st.run)st.timer=setInterval(tick,1000);clock()}
+  else if(b.id==='treset'){resetTimer()}
+  else if(b.id==='bprompt'){var n=st.mode==='q53'?CONTENT.drills.length:st.mode==='q54'?CONTENT.essays.length:0;if(n){st.prompt=(st.prompt+1)%n;renderPrompt()}}
+  else if(b.id==='bprint'){window.print()}
+  else if(b.id==='bclear'){if(document.getElementById('ta').value&&!window.__cl){window.__cl=1;b.textContent=t('sure');setTimeout(function(){window.__cl=0;b.textContent=t('clear')},2500);return}window.__cl=0;document.getElementById('ta').value='';render();b.textContent=t('clear')}
+});
+document.getElementById('ta').addEventListener('input',render);
+(function init(){var L=store('wg_lang'),page='en';st.lang=L||page;document.getElementById('ta').value=store('wg_q53')||'';resetTimer();ui()})();
+</script>
+</body>
+</html>
