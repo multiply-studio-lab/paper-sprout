@@ -1,0 +1,501 @@
+﻿Korean,English,Example (Korean),Example (English),Planner week,Day,Date (2027 edition),Where
+가족,family,우리 가족은 네 명이에요.,There are four people in my family.,1,Mon,2026-12-28,planner
+부모님,parents,부모님께 전화했어요.,I called my parents.,1,Tue,2026-12-29,planner
+아버지,father,아버지는 회사원이에요.,My father is an office worker.,1,Wed,2026-12-30,planner
+어머니,mother,어머니가 요리를 하세요.,My mother is cooking.,1,Thu,2026-12-31,planner
+형,older brother (said by a male),형은 키가 커요.,My older brother is tall.,1,Fri,2027-01-01,planner
+누나,older sister (said by a male),누나가 선물을 줬어요.,My older sister gave me a gift.,1,Sat,2027-01-02,planner
+언니,older sister (said by a female),언니와 영화를 봤어요.,I watched a movie with my older sister.,1,Sun,2027-01-03,planner
+오빠,older brother (said by a female),오빠는 대학생이에요.,My older brother is a college student.,2,Mon,2027-01-04,planner
+동생,younger sibling,동생이 한 명 있어요.,I have one younger sibling.,2,Tue,2027-01-05,planner
+할머니,grandmother,할머니 댁에 가요.,I'm going to my grandmother's house.,2,Wed,2027-01-06,planner
+할아버지,grandfather,할아버지는 건강하세요.,My grandfather is healthy.,2,Thu,2027-01-07,planner
+아이,child,아이가 웃고 있어요.,The child is smiling.,2,Fri,2027-01-08,planner
+친구,friend,주말에 친구를 만나요.,I meet a friend on the weekend.,2,Sat,2027-01-09,planner
+이름,name,이름이 뭐예요?,What is your name?,2,Sun,2027-01-10,planner
+나이,age,나이가 어떻게 되세요?,How old are you? (polite),3,Mon,2027-01-11,planner
+남자,"man, male",저 남자는 제 형이에요.,That man over there is my older brother.,3,Tue,2027-01-12,planner
+여자,"woman, female",그 여자는 의사예요.,That woman is a doctor.,3,Wed,2027-01-13,planner
+결혼하다,to get married,언니가 내년에 결혼해요.,My older sister is getting married next year.,3,Thu,2027-01-14,planner
+사랑하다,to love,가족을 사랑해요.,I love my family.,3,Fri,2027-01-15,planner
+소개하다,to introduce,제 친구를 소개할게요.,Let me introduce my friend.,3,Sat,2027-01-16,planner
+저,"I, me (polite)",저는 대학생이에요.,I'm a college student.,3,Sun,2027-01-17,planner
+우리,"we, us, our (also ""my"" for family, home)",우리 같이 공부해요.,Let's study together.,4,Mon,2027-01-18,planner
+이것,this (thing),이것은 제 가방이에요.,This is my bag.,4,Tue,2027-01-19,planner
+그것,that (thing near you),그것 좀 주세요.,Please give me that.,4,Wed,2027-01-20,planner
+저것,that (thing over there),저것은 뭐예요?,What is that over there?,4,Thu,2027-01-21,planner
+여기,here,여기가 어디예요?,Where is this place?,4,Fri,2027-01-22,planner
+거기,there (near you),거기 날씨는 어때요?,How's the weather there?,4,Sat,2027-01-23,planner
+저기,over there,저기에 은행이 있어요.,There's a bank over there.,4,Sun,2027-01-24,planner
+누구,who,이 사람은 누구예요?,Who is this person?,5,Mon,2027-01-25,planner
+언제,when,생일이 언제예요?,When is your birthday?,5,Tue,2027-01-26,planner
+어디,where,집이 어디예요?,Where is your house?,5,Wed,2027-01-27,planner
+무엇,what (short form: 뭐),무엇을 먹고 싶어요?,What do you want to eat?,5,Thu,2027-01-28,planner
+왜,why,왜 늦었어요?,Why were you late?,5,Fri,2027-01-29,planner
+어떻게,how,학교에 어떻게 가요?,How do you get to school?,5,Sat,2027-01-30,planner
+몇,"how many, what (with counters)",가족이 몇 명이에요?,How many people are in your family?,5,Sun,2027-01-31,planner
+그분,"that person; he, she (honorific)",그분은 제 선생님이세요.,He is my teacher.,6,Mon,2027-02-01,planner
+모두,"everyone, all (of them)",모두 같이 노래해요.,Everyone sings together.,6,Tue,2027-02-02,planner
+다,"all, completely (nothing left)",밥을 다 먹었어요.,I ate all my food.,6,Wed,2027-02-03,planner
+서로,each other,우리는 서로 도와요.,We help each other.,6,Thu,2027-02-04,planner
+그때,"at that time, then",그때 저는 학생이었어요.,I was a student then.,6,Fri,2027-02-05,planner
+가다,to go,내일 부산에 가요.,I'm going to Busan tomorrow.,6,Sat,2027-02-06,planner
+오다,to come,친구가 집에 와요.,My friend is coming to my house.,6,Sun,2027-02-07,planner
+하다,to do,지금 뭐 해요?,What are you doing now?,7,Mon,2027-02-08,planner
+있다,"to exist, to be (somewhere), to have",시간이 있어요?,Do you have time?,7,Tue,2027-02-09,planner
+없다,"to not exist, to not have",오늘은 수업이 없어요.,I don't have class today.,7,Wed,2027-02-10,planner
+만나다,to meet,역에서 친구를 만나요.,I meet my friend at the station.,7,Thu,2027-02-11,planner
+기다리다,to wait,잠깐만 기다리세요.,Please wait a moment.,7,Fri,2027-02-12,planner
+쓰다,to write,편지를 쓰고 있어요.,I'm writing a letter.,7,Sat,2027-02-13,planner
+읽다,to read,신문을 읽어요.,I read the newspaper.,7,Sun,2027-02-14,planner
+말하다,"to speak, to say",천천히 말해 주세요.,Please speak slowly.,8,Mon,2027-02-15,planner
+주다,to give,동생에게 책을 줬어요.,I gave a book to my younger sibling.,8,Tue,2027-02-16,planner
+받다,"to receive, to get",친구한테서 편지를 받았어요.,I received a letter from a friend.,8,Wed,2027-02-17,planner
+찾다,"to look for, to find",열쇠를 찾고 있어요.,I'm looking for my keys.,8,Thu,2027-02-18,planner
+돕다,to help,제가 도와 드릴게요.,Let me help you.,8,Fri,2027-02-19,planner
+보내다,to send,사진을 보내 주세요.,Please send me the picture.,8,Sat,2027-02-20,planner
+걷다,to walk,매일 삼십 분 걸어요.,I walk thirty minutes every day.,8,Sun,2027-02-21,planner
+앉다,to sit,여기 앉아도 돼요?,May I sit here?,9,Mon,2027-02-22,planner
+서다,to stand,문 앞에 서 있어요.,I'm standing in front of the door.,9,Tue,2027-02-23,planner
+만들다,to make,케이크를 만들었어요.,I made a cake.,9,Wed,2027-02-24,planner
+생각하다,to think,잘 생각해 보세요.,Think it over carefully.,9,Thu,2027-02-25,planner
+크다,to be big,이 옷은 너무 커요.,These clothes are too big.,9,Fri,2027-02-26,planner
+작다,to be small,가방이 작아요.,The bag is small.,9,Sat,2027-02-27,planner
+많다,"to be many, a lot",사람이 많아요.,There are a lot of people.,9,Sun,2027-02-28,planner
+적다,"to be few, scarce (in amount)",오늘은 손님이 적어요.,There are few customers today.,10,Mon,2027-03-01,planner
+길다,to be long,여동생은 머리가 길어요.,My younger sister has long hair.,10,Tue,2027-03-02,planner
+짧다,to be short (in length or time),수업이 짧았어요.,The class was short.,10,Wed,2027-03-03,planner
+쉽다,to be easy,이 문제는 쉬워요.,This problem is easy.,10,Thu,2027-03-04,planner
+어렵다,to be difficult,한국어가 어려워요?,Is Korean difficult?,10,Fri,2027-03-05,planner
+예쁘다,to be pretty,꽃이 정말 예뻐요.,The flowers are really pretty.,10,Sat,2027-03-06,planner
+나쁘다,to be bad,날씨가 나빠요.,The weather is bad.,10,Sun,2027-03-07,planner
+빠르다,to be fast,기차가 아주 빨라요.,The train is very fast.,11,Mon,2027-03-08,planner
+느리다,to be slow,인터넷이 느려요.,The internet is slow.,11,Tue,2027-03-09,planner
+조용하다,to be quiet,도서관은 조용해요.,The library is quiet.,11,Wed,2027-03-10,planner
+아주,very,아주 맛있어요.,It's very delicious.,11,Thu,2027-03-11,planner
+너무,too (much),너무 비싸요.,It's too expensive.,11,Fri,2027-03-12,planner
+자주,often,자주 연락하세요.,Keep in touch often.,11,Sat,2027-03-13,planner
+같이,together,같이 가요.,Let's go together.,11,Sun,2027-03-14,planner
+빨리,quickly,빨리 오세요.,Please come quickly.,12,Mon,2027-03-15,planner
+천천히,slowly,천천히 드세요.,Please eat slowly.,12,Tue,2027-03-16,planner
+다시,again,다시 한번 말해 주세요.,Please say it one more time.,12,Wed,2027-03-17,planner
+위,"top, above",책상 위에 책이 있어요.,There is a book on the desk.,12,Thu,2027-03-18,planner
+아래,"below, under",창문 아래에 꽃이 있어요.,There are flowers below the window.,12,Fri,2027-03-19,planner
+앞,"front, in front of",집 앞에서 기다려요.,I'm waiting in front of the house.,12,Sat,2027-03-20,planner
+뒤,"back, behind",학교 뒤에 산이 있어요.,There is a mountain behind the school.,12,Sun,2027-03-21,planner
+옆,"side, next to",제 옆에 앉으세요.,Please sit next to me.,13,Mon,2027-03-22,planner
+안,inside,가방 안에 지갑이 있어요.,My wallet is in the bag.,13,Tue,2027-03-23,planner
+밖,outside,밖이 시끄러워요.,It's noisy outside.,13,Wed,2027-03-24,planner
+사이,between,우체국은 은행과 약국 사이예요.,The post office is between the bank and the pharmacy.,13,Thu,2027-03-25,planner
+근처,"near, vicinity",이 근처에 식당이 있어요?,Is there a restaurant near here?,13,Fri,2027-03-26,planner
+가운데,"middle, center",사진 가운데가 저예요.,I'm the one in the middle of the photo.,13,Sat,2027-03-27,planner
+동쪽,east,해가 동쪽에서 떠요.,The sun rises in the east.,13,Sun,2027-03-28,planner
+서쪽,west,해가 서쪽으로 져요.,The sun sets in the west.,14,Mon,2027-03-29,planner
+남쪽,south,남쪽은 겨울에도 따뜻해요.,The south is warm even in winter.,14,Tue,2027-03-30,planner
+북쪽,north,북쪽은 겨울이 길어요.,Winters are long in the north.,14,Wed,2027-03-31,planner
+똑바로,straight (ahead),똑바로 가세요.,Go straight ahead.,14,Thu,2027-04-01,planner
+멀다,to be far,역이 여기서 멀어요?,Is the station far from here?,14,Fri,2027-04-02,planner
+들어가다,"to go in, to enter",방에 들어가세요.,Please go into the room.,14,Sat,2027-04-03,planner
+나가다,to go out,잠깐 밖에 나가요.,I'm stepping out for a moment.,14,Sun,2027-04-04,planner
+올라가다,to go up,계단으로 올라가요.,I go up the stairs.,15,Mon,2027-04-05,planner
+내려가다,to go down,일 층으로 내려가세요.,Please go down to the first floor.,15,Tue,2027-04-06,planner
+학교,school,학교에 걸어서 가요.,I walk to school.,15,Wed,2027-04-07,planner
+학생,student,저는 학생이에요.,I am a student.,15,Thu,2027-04-08,planner
+선생님,teacher,선생님이 친절하세요.,The teacher is kind.,15,Fri,2027-04-09,planner
+교실,classroom,교실에 학생이 많아요.,There are many students in the classroom.,15,Sat,2027-04-10,planner
+수업,"class, lesson",수업이 아홉 시에 시작해요.,Class starts at nine.,15,Sun,2027-04-11,planner
+숙제,homework,숙제를 다 했어요.,I finished all my homework.,16,Mon,2027-04-12,planner
+시험,"exam, test",내일 시험이 있어요.,I have an exam tomorrow.,16,Tue,2027-04-13,planner
+책,book,책을 읽고 있어요.,I'm reading a book.,16,Wed,2027-04-14,planner
+공책,notebook,공책에 이름을 쓰세요.,Write your name in the notebook.,16,Thu,2027-04-15,planner
+연필,pencil,연필 좀 빌려주세요.,Please lend me a pencil.,16,Fri,2027-04-16,planner
+사전,dictionary,사전에서 단어를 찾아요.,I look up words in the dictionary.,16,Sat,2027-04-17,planner
+단어,"word, vocabulary",이 단어가 어려워요.,This word is difficult.,16,Sun,2027-04-18,planner
+문제,"problem, test item",문제를 잘 읽으세요.,Read the problem carefully.,17,Mon,2027-04-19,planner
+질문,question (that you ask),질문이 있어요.,I have a question.,17,Tue,2027-04-20,planner
+대답,"answer, reply",친구의 대답을 기다려요.,I'm waiting for my friend's answer.,17,Wed,2027-04-21,planner
+도서관,library,도서관에서 공부해요.,I study at the library.,17,Thu,2027-04-22,planner
+공부하다,to study,매일 한국어를 공부해요.,I study Korean every day.,17,Fri,2027-04-23,planner
+배우다,to learn,피아노를 배우고 싶어요.,I want to learn the piano.,17,Sat,2027-04-24,planner
+가르치다,to teach,저는 영어를 가르쳐요.,I teach English.,17,Sun,2027-04-25,planner
+알다,to know,그 사람을 알아요.,I know that person.,18,Mon,2027-04-26,planner
+집,"house, home",집에서 쉬고 있어요.,I'm resting at home.,18,Tue,2027-04-27,planner
+방,room,제 방은 작아요.,My room is small.,18,Wed,2027-04-28,planner
+부엌,kitchen,부엌에서 요리해요.,I cook in the kitchen.,18,Thu,2027-04-29,planner
+화장실,"bathroom, restroom",화장실이 어디예요?,Where is the restroom?,18,Fri,2027-04-30,planner
+창문,window,창문을 열어 주세요.,Please open the window.,18,Sat,2027-05-01,planner
+문,door,문을 닫으세요.,"Close the door, please.",18,Sun,2027-05-02,planner
+침대,bed,침대가 아주 편해요.,The bed is very comfortable.,19,Mon,2027-05-03,planner
+의자,chair,의자에 앉으세요.,Please sit on the chair.,19,Tue,2027-05-04,planner
+책상,desk,책상 위에 컴퓨터가 있어요.,There is a computer on the desk.,19,Wed,2027-05-05,planner
+냉장고,refrigerator,냉장고에 우유가 있어요.,There is milk in the refrigerator.,19,Thu,2027-05-06,planner
+옷,clothes,옷을 갈아입어요.,I change my clothes.,19,Fri,2027-05-07,planner
+청소,cleaning,주말에 청소를 해요.,I clean on weekends.,19,Sat,2027-05-08,planner
+빨래,laundry,오늘 빨래를 했어요.,I did the laundry today.,19,Sun,2027-05-09,planner
+일어나다,"to get up, to wake up",일곱 시에 일어나요.,I get up at seven.,20,Mon,2027-05-10,planner
+자다,to sleep,열한 시에 자요.,I go to bed at eleven.,20,Tue,2027-05-11,planner
+씻다,to wash,손을 깨끗이 씻으세요.,Wash your hands well.,20,Wed,2027-05-12,planner
+살다,to live,서울에 살아요.,I live in Seoul.,20,Thu,2027-05-13,planner
+쉬다,to rest,오늘은 집에서 쉬어요.,Today I'm resting at home.,20,Fri,2027-05-14,planner
+열다,to open,상자를 열어 보세요.,Try opening the box.,20,Sat,2027-05-15,planner
+닫다,"to close, to shut",창문을 닫았어요.,I closed the window.,20,Sun,2027-05-16,planner
+아파트,apartment,아파트에 살아요.,I live in an apartment.,21,Mon,2027-05-17,planner
+거실,living room,거실에서 텔레비전을 봐요.,I watch TV in the living room.,21,Tue,2027-05-18,planner
+계단,stairs,계단이 좀 많아요.,There are quite a few stairs.,21,Wed,2027-05-19,planner
+엘리베이터,elevator,엘리베이터를 타세요.,Please take the elevator.,21,Thu,2027-05-20,planner
+소파,sofa,소파에 앉아서 쉬어요.,I sit on the sofa and rest.,21,Fri,2027-05-21,planner
+시계,"clock, watch",시계가 멈췄어요.,The clock stopped.,21,Sat,2027-05-22,planner
+텔레비전,"television, TV",텔레비전이 거실에 있어요.,The TV is in the living room.,21,Sun,2027-05-23,planner
+컴퓨터,computer,컴퓨터로 숙제를 해요.,I do my homework on the computer.,22,Mon,2027-05-24,planner
+이불,"blanket, comforter",이불이 따뜻해요.,The blanket is warm.,22,Tue,2027-05-25,planner
+수건,towel,수건 좀 주세요.,Please give me a towel.,22,Wed,2027-05-26,planner
+비누,soap,비누로 손을 씻어요.,I wash my hands with soap.,22,Thu,2027-05-27,planner
+칫솔,toothbrush,새 칫솔을 샀어요.,I bought a new toothbrush.,22,Fri,2027-05-28,planner
+거울,mirror,거울을 보고 있어요.,I'm looking in the mirror.,22,Sat,2027-05-29,planner
+열쇠,key,열쇠를 집에 두고 왔어요.,I left my key at home.,22,Sun,2027-05-30,planner
+휴지,"tissue, toilet paper",화장실에 휴지가 없어요.,There's no toilet paper in the restroom.,23,Mon,2027-05-31,planner
+쓰레기,"trash, garbage",쓰레기가 너무 많아요.,There is too much trash.,23,Tue,2027-06-01,planner
+세탁기,washing machine,세탁기가 고장 났어요.,The washing machine is broken.,23,Wed,2027-06-02,planner
+설거지,washing the dishes,밥을 먹고 설거지를 해요.,I wash the dishes after eating.,23,Thu,2027-06-03,planner
+이사,moving (house),다음 달에 이사를 해요.,I'm moving next month.,23,Fri,2027-06-04,planner
+동네,neighborhood,우리 동네는 조용해요.,My neighborhood is quiet.,23,Sat,2027-06-05,planner
+음식,food,한국 음식을 좋아해요.,I like Korean food.,23,Sun,2027-06-06,planner
+밥,"cooked rice, meal",같이 밥을 먹어요.,Let's have a meal together.,24,Mon,2027-06-07,planner
+물,water,물 한 잔 주세요.,"A glass of water, please.",24,Tue,2027-06-08,planner
+커피,coffee,아침마다 커피를 마셔요.,I drink coffee every morning.,24,Wed,2027-06-09,planner
+우유,milk,우유를 사러 가요.,I'm going to buy milk.,24,Thu,2027-06-10,planner
+고기,meat,저는 고기를 안 먹어요.,I don't eat meat.,24,Fri,2027-06-11,planner
+과일,fruit,과일을 자주 먹어요.,I eat fruit often.,24,Sat,2027-06-12,planner
+사과,apple,사과가 정말 달아요.,The apple is really sweet.,24,Sun,2027-06-13,planner
+김치,kimchi,김치가 좀 매워요.,The kimchi is a little spicy.,25,Mon,2027-06-14,planner
+식당,restaurant,식당에 사람이 많아요.,There are many people in the restaurant.,25,Tue,2027-06-15,planner
+메뉴,menu,메뉴 좀 보여 주세요.,Please show me the menu.,25,Wed,2027-06-16,planner
+아침,"morning, breakfast",아침을 먹었어요?,Did you eat breakfast?,25,Thu,2027-06-17,planner
+점심,"lunch, midday",점심에 비빔밥을 먹었어요.,I had bibimbap for lunch.,25,Fri,2027-06-18,planner
+저녁,"evening, dinner",저녁에 친구를 만나요.,I'm meeting a friend in the evening.,25,Sat,2027-06-19,planner
+먹다,to eat,빵을 먹고 싶어요.,I want to eat bread.,25,Sun,2027-06-20,planner
+마시다,to drink,주스를 마셨어요.,I drank juice.,26,Mon,2027-06-21,planner
+맛있다,to be delicious,이 빵이 맛있어요.,This bread is delicious.,26,Tue,2027-06-22,planner
+맵다,to be spicy,떡볶이가 너무 매워요.,The tteokbokki is too spicy.,26,Wed,2027-06-23,planner
+주문하다,to order,커피를 주문했어요.,I ordered coffee.,26,Thu,2027-06-24,planner
+맛없다,to taste bad,이 음식은 맛없어요.,This food doesn't taste good.,26,Fri,2027-06-25,planner
+라면,"ramyeon, instant noodles",라면을 끓여 먹었어요.,I cooked and ate ramyeon.,26,Sat,2027-06-26,planner
+김밥,gimbap (rice rolls),소풍 때 김밥을 먹어요.,We eat gimbap on picnics.,26,Sun,2027-06-27,planner
+불고기,bulgogi (marinated beef),불고기가 달고 맛있어요.,The bulgogi is sweet and tasty.,27,Mon,2027-06-28,planner
+국,soup,국이 좀 뜨거워요.,The soup is a little hot.,27,Tue,2027-06-29,planner
+반찬,side dish,반찬이 정말 많아요.,There are so many side dishes.,27,Wed,2027-06-30,planner
+계란,egg,아침에 계란을 먹어요.,I eat eggs in the morning.,27,Thu,2027-07-01,planner
+생선,fish (as food),저녁에 생선을 구웠어요.,I grilled fish for dinner.,27,Fri,2027-07-02,planner
+소고기,beef,소고기가 좀 비싸요.,Beef is a little expensive.,27,Sat,2027-07-03,planner
+돼지고기,pork,돼지고기를 샀어요.,I bought pork.,27,Sun,2027-07-04,planner
+야채,vegetables,야채를 많이 드세요.,Eat lots of vegetables.,28,Mon,2027-07-05,planner
+쌀,rice (uncooked),시장에서 쌀을 샀어요.,I bought rice at the market.,28,Tue,2027-07-06,planner
+소금,salt,소금을 조금 넣으세요.,Add a little salt.,28,Wed,2027-07-07,planner
+설탕,sugar,커피에 설탕을 넣어요?,Do you put sugar in your coffee?,28,Thu,2027-07-08,planner
+맛,"taste, flavor",맛이 어때요?,How does it taste?,28,Fri,2027-07-09,planner
+짜다,to be salty,국이 좀 짜요.,The soup is a little salty.,28,Sat,2027-07-10,planner
+달다,to be sweet,이 과자는 너무 달아요.,These snacks are too sweet.,28,Sun,2027-07-11,planner
+싱겁다,to be bland (not salty enough),음식이 좀 싱거워요.,The food is a little bland.,29,Mon,2027-07-12,planner
+끓이다,"to boil, to cook (soup)",물을 먼저 끓이세요.,Boil the water first.,29,Tue,2027-07-13,planner
+젓가락,chopsticks,젓가락으로 밥을 먹어요.,I eat rice with chopsticks.,29,Wed,2027-07-14,planner
+숟가락,spoon,숟가락 하나 더 주세요.,"One more spoon, please.",29,Thu,2027-07-15,planner
+돈,money,돈이 조금 있어요.,I have a little money.,29,Fri,2027-07-16,planner
+가게,"store, shop",가게가 열 시에 문을 열어요.,The store opens at ten.,29,Sat,2027-07-17,planner
+시장,market,시장에서 과일을 샀어요.,I bought fruit at the market.,29,Sun,2027-07-18,planner
+백화점,department store,백화점에서 옷을 사요.,I buy clothes at the department store.,30,Mon,2027-07-19,planner
+가격,price,가격이 좀 높아요.,The price is a bit high.,30,Tue,2027-07-20,planner
+원,won (Korean currency),이 책은 만 원이에요.,This book is ten thousand won.,30,Wed,2027-07-21,planner
+카드,card,카드로 계산할게요.,I'll pay by card.,30,Thu,2027-07-22,planner
+손님,"customer, guest",가게에 손님이 많아요.,There are many customers in the store.,30,Fri,2027-07-23,planner
+신발,shoes,새 신발을 샀어요.,I bought new shoes.,30,Sat,2027-07-24,planner
+가방,bag,가방이 무거워요.,The bag is heavy.,30,Sun,2027-07-25,planner
+모자,"hat, cap",저는 모자가 많아요.,I have a lot of hats.,31,Mon,2027-07-26,planner
+선물,"gift, present",생일 선물을 받았어요.,I received a birthday present.,31,Tue,2027-07-27,planner
+사다,to buy,꽃을 사고 싶어요.,I want to buy flowers.,31,Wed,2027-07-28,planner
+팔다,to sell,여기서 우산을 팔아요?,Do you sell umbrellas here?,31,Thu,2027-07-29,planner
+비싸다,to be expensive,이 시계는 비싸요.,This watch is expensive.,31,Fri,2027-07-30,planner
+싸다,to be cheap,시장에서는 과일이 싸요.,Fruit is cheap at the market.,31,Sat,2027-07-31,planner
+계산하다,"to pay the bill, to calculate",어디에서 계산해요?,Where do I pay?,31,Sun,2027-08-01,planner
+바꾸다,"to change, to exchange",다른 색으로 바꿔 주세요.,Please exchange it for another color.,32,Mon,2027-08-02,planner
+고르다,"to choose, to pick",선물을 같이 골라요.,Let's choose a gift together.,32,Tue,2027-08-03,planner
+얼마,how much,이거 얼마예요?,How much is this?,32,Wed,2027-08-04,planner
+시간,"time, hour",지금은 시간이 없어요.,I don't have time right now.,32,Thu,2027-08-05,planner
+오늘,today,오늘은 월요일이에요.,Today is Monday.,32,Fri,2027-08-06,planner
+내일,tomorrow,내일 다시 올게요.,I'll come again tomorrow.,32,Sat,2027-08-07,planner
+어제,yesterday,어제 영화를 봤어요.,I watched a movie yesterday.,32,Sun,2027-08-08,planner
+주말,weekend,주말에 뭐 해요?,What do you do on the weekend?,33,Mon,2027-08-09,planner
+요일,day of the week,오늘이 무슨 요일이에요?,What day of the week is it today?,33,Tue,2027-08-10,planner
+날짜,date,날짜를 써 주세요.,Please write the date.,33,Wed,2027-08-11,planner
+생일,birthday,제 생일은 오월이에요.,My birthday is in May.,33,Thu,2027-08-12,planner
+오전,"a.m., before noon",오전에 수업이 있어요.,I have class in the morning.,33,Fri,2027-08-13,planner
+오후,"afternoon, p.m.",오후 세 시에 만나요.,Let's meet at 3 p.m.,33,Sat,2027-08-14,planner
+밤,night,밤에 잠이 안 와요.,I can't fall asleep at night.,33,Sun,2027-08-15,planner
+지금,now,지금 몇 시예요?,What time is it now?,34,Mon,2027-08-16,planner
+올해,this year,올해 한국에 왔어요.,I came to Korea this year.,34,Tue,2027-08-17,planner
+작년,last year,작년에 졸업했어요.,I graduated last year.,34,Wed,2027-08-18,planner
+다음 주,next week,다음 주에 시험이 있어요.,I have an exam next week.,34,Thu,2027-08-19,planner
+매일,every day,매일 운동해요.,I exercise every day.,34,Fri,2027-08-20,planner
+달,month,한 달 동안 여행했어요.,I traveled for a month.,34,Sat,2027-08-21,planner
+분,minute,십 분만 기다려 주세요.,Please wait just ten minutes.,34,Sun,2027-08-22,planner
+일찍,early,오늘 일찍 일어났어요.,I got up early today.,35,Mon,2027-08-23,planner
+늦다,to be late,약속에 늦었어요.,I was late for my appointment.,35,Tue,2027-08-24,planner
+날씨,weather,오늘 날씨가 좋아요.,The weather is nice today.,35,Wed,2027-08-25,planner
+봄,spring,봄에 꽃이 피어요.,Flowers bloom in spring.,35,Thu,2027-08-26,planner
+여름,summer,여름에는 바다에 가요.,In summer I go to the sea.,35,Fri,2027-08-27,planner
+가을,"autumn, fall",가을에는 단풍이 예뻐요.,The autumn leaves are pretty in fall.,35,Sat,2027-08-28,planner
+겨울,winter,겨울에 눈이 많이 와요.,It snows a lot in winter.,35,Sun,2027-08-29,planner
+비,rain,비가 오고 있어요.,It's raining.,36,Mon,2027-08-30,planner
+눈,snow,밖에 눈이 와요.,It's snowing outside.,36,Tue,2027-08-31,planner
+바람,wind,바람이 많이 불어요.,The wind is blowing hard.,36,Wed,2027-09-01,planner
+구름,cloud,하늘에 구름이 많아요.,There are many clouds in the sky.,36,Thu,2027-09-02,planner
+하늘,sky,하늘이 파래요.,The sky is blue.,36,Fri,2027-09-03,planner
+우산,umbrella,우산을 가져가세요.,Take an umbrella with you.,36,Sat,2027-09-04,planner
+덥다,to be hot (weather),오늘은 정말 더워요.,It's really hot today.,36,Sun,2027-09-05,planner
+춥다,to be cold (weather),밖이 너무 추워요.,It's very cold outside.,37,Mon,2027-09-06,planner
+따뜻하다,to be warm,봄 날씨가 따뜻해요.,The spring weather is warm.,37,Tue,2027-09-07,planner
+시원하다,"to be cool, refreshing",바람이 시원해요.,The breeze is cool.,37,Wed,2027-09-08,planner
+맑다,"to be clear, sunny",오늘은 하늘이 맑아요.,The sky is clear today.,37,Thu,2027-09-09,planner
+흐리다,to be cloudy,날씨가 흐려요.,It's cloudy.,37,Fri,2027-09-10,planner
+계절,season,어느 계절을 좋아해요?,Which season do you like?,37,Sat,2027-09-11,planner
+기온,temperature (air),오늘 기온이 낮아요.,The temperature is low today.,37,Sun,2027-09-12,planner
+불다,to blow,차가운 바람이 불어요.,A cold wind is blowing.,38,Mon,2027-09-13,planner
+버스,bus,버스를 타고 가요.,I go by bus.,38,Tue,2027-09-14,planner
+지하철,subway,지하철이 빨라요.,The subway is fast.,38,Wed,2027-09-15,planner
+택시,taxi,택시를 불러 주세요.,Please call a taxi.,38,Thu,2027-09-16,planner
+기차,train,기차로 부산에 가요.,I'm going to Busan by train.,38,Fri,2027-09-17,planner
+비행기,airplane,비행기 표를 샀어요.,I bought a plane ticket.,38,Sat,2027-09-18,planner
+역,station,역 앞에서 만나요.,Let's meet in front of the station.,38,Sun,2027-09-19,planner
+정류장,bus stop,정류장에서 버스를 기다려요.,I wait for the bus at the bus stop.,39,Mon,2027-09-20,planner
+길,"road, way",길을 잃어버렸어요.,I got lost.,39,Tue,2027-09-21,planner
+은행,bank,은행이 몇 시에 열어요?,What time does the bank open?,39,Wed,2027-09-22,planner
+병원,hospital,병원에 가야 해요.,I have to go to the hospital.,39,Thu,2027-09-23,planner
+약국,pharmacy,약국은 저쪽에 있어요.,The pharmacy is over there.,39,Fri,2027-09-24,planner
+우체국,post office,우체국에서 편지를 보냈어요.,I sent a letter at the post office.,39,Sat,2027-09-25,planner
+공원,park,공원에서 산책해요.,I take a walk in the park.,39,Sun,2027-09-26,planner
+회사,"company, workplace",회사가 집에서 멀어요.,My office is far from my house.,40,Mon,2027-09-27,planner
+왼쪽,left (side),왼쪽으로 가세요.,Go to the left.,40,Tue,2027-09-28,planner
+오른쪽,right (side),오른쪽에 은행이 있어요.,There is a bank on the right.,40,Wed,2027-09-29,planner
+타다,"to ride, to take (a vehicle)",자전거를 타요.,I ride a bicycle.,40,Thu,2027-09-30,planner
+내리다,to get off,다음 역에서 내려요.,I get off at the next station.,40,Fri,2027-10-01,planner
+갈아타다,to transfer (vehicles),시청역에서 갈아타세요.,Transfer at City Hall Station.,40,Sat,2027-10-02,planner
+가깝다,"to be close, near",학교가 집에서 가까워요.,The school is close to my house.,40,Sun,2027-10-03,planner
+몸,body,몸이 좀 안 좋아요.,I don't feel very well.,41,Mon,2027-10-04,planner
+머리,"head, hair",머리가 아파요.,I have a headache.,41,Tue,2027-10-05,planner
+얼굴,face,얼굴을 씻었어요.,I washed my face.,41,Wed,2027-10-06,planner
+손,hand,손이 차가워요.,My hands are cold.,41,Thu,2027-10-07,planner
+발,foot,발이 아파요.,My feet hurt.,41,Fri,2027-10-08,planner
+다리,leg,다리를 다쳤어요.,I hurt my leg.,41,Sat,2027-10-09,planner
+배,"stomach, belly",배가 아파요.,I have a stomachache.,41,Sun,2027-10-10,planner
+목,"neck, throat",목이 아파요.,I have a sore throat.,42,Mon,2027-10-11,planner
+감기,cold (illness),감기에 걸렸어요.,I caught a cold.,42,Tue,2027-10-12,planner
+열,fever,열이 많이 나요.,I have a high fever.,42,Wed,2027-10-13,planner
+약,medicine,약을 먹고 쉬세요.,Take some medicine and rest.,42,Thu,2027-10-14,planner
+의사,doctor,의사 선생님을 만났어요.,I saw the doctor.,42,Fri,2027-10-15,planner
+간호사,nurse,간호사가 친절해요.,The nurse is kind.,42,Sat,2027-10-16,planner
+아프다,"to be sick, to hurt",어디가 아프세요?,Where does it hurt?,42,Sun,2027-10-17,planner
+건강하다,to be healthy,건강하게 지내세요.,Stay healthy.,43,Mon,2027-10-18,planner
+기침,cough,기침이 계속 나요.,I keep coughing.,43,Tue,2027-10-19,planner
+피곤하다,to be tired,오늘 너무 피곤해요.,I'm very tired today.,43,Wed,2027-10-20,planner
+다치다,to get injured,넘어져서 다쳤어요.,I fell and got injured.,43,Thu,2027-10-21,planner
+낫다,"to get better, to recover",감기가 다 나았어요.,My cold is completely gone.,43,Fri,2027-10-22,planner
+병,"illness, disease",큰 병이 아니에요.,It's not a serious illness.,43,Sat,2027-10-23,planner
+바지,"pants, trousers",바지가 좀 길어요.,The pants are a little long.,43,Sun,2027-10-24,planner
+치마,skirt,언니가 치마를 입고 있어요.,My older sister is wearing a skirt.,44,Mon,2027-10-25,planner
+청바지,jeans,주말에는 청바지를 입어요.,I wear jeans on weekends.,44,Tue,2027-10-26,planner
+티셔츠,T-shirt,티셔츠가 너무 커요.,The T-shirt is too big.,44,Wed,2027-10-27,planner
+양말,socks,양말을 신으세요.,Put on your socks.,44,Thu,2027-10-28,planner
+구두,dress shoes,구두가 좀 작아요.,The dress shoes are a little small.,44,Fri,2027-10-29,planner
+운동화,sneakers,운동화를 신고 걸어요.,I walk in sneakers.,44,Sat,2027-10-30,planner
+안경,glasses (eyewear),안경이 어디 있어요?,Where are my glasses?,44,Sun,2027-10-31,planner
+지갑,wallet,지갑을 잃어버렸어요.,I lost my wallet.,45,Mon,2027-11-01,planner
+입다,"to wear, to put on (clothes)",따뜻한 옷을 입으세요.,Wear warm clothes.,45,Tue,2027-11-02,planner
+벗다,to take off,신발을 벗으세요.,Please take off your shoes.,45,Wed,2027-11-03,planner
+신다,"to put on (shoes, socks)",새 운동화를 신었어요.,I put on my new sneakers.,45,Thu,2027-11-04,planner
+멋있다,"to be stylish, cool-looking",그 옷이 멋있어요.,Those clothes look cool.,45,Fri,2027-11-05,planner
+어울리다,"to suit, to look good on",그 모자가 잘 어울려요.,That hat looks good on you.,45,Sat,2027-11-06,planner
+색,color,무슨 색을 좋아해요?,What color do you like?,45,Sun,2027-11-07,planner
+빨간색,red,빨간색 가방을 샀어요.,I bought a red bag.,46,Mon,2027-11-08,planner
+파란색,blue,파란색 바지를 입고 있어요.,I'm wearing blue pants.,46,Tue,2027-11-09,planner
+노란색,yellow,노란색 꽃이 피었어요.,Yellow flowers have bloomed.,46,Wed,2027-11-10,planner
+까만색,black,까만색 구두를 신어요.,I wear black dress shoes.,46,Thu,2027-11-11,planner
+하얀색,white,하얀색 티셔츠가 예뻐요.,The white T-shirt is pretty.,46,Fri,2027-11-12,planner
+일,"work, a job (what you do)",일이 많아서 바빠요.,I'm busy because I have a lot of work.,46,Sat,2027-11-13,planner
+직업,"occupation, profession",직업이 뭐예요?,What is your job?,46,Sun,2027-11-14,planner
+회사원,office worker,저는 회사원이에요.,I am an office worker.,47,Mon,2027-11-15,planner
+사무실,office (room),사무실이 삼 층에 있어요.,The office is on the third floor.,47,Tue,2027-11-16,planner
+회의,meeting,두 시에 회의가 있어요.,I have a meeting at two.,47,Wed,2027-11-17,planner
+직원,"employee, staff",가게 직원에게 물어보세요.,Ask the store staff.,47,Thu,2027-11-18,planner
+사장님,"boss, company president",사장님께 인사했어요.,I greeted the boss.,47,Fri,2027-11-19,planner
+경찰,"police, police officer",경찰에 전화했어요.,I called the police.,47,Sat,2027-11-20,planner
+요리사,"cook, chef",제 꿈은 요리사예요.,My dream is to be a chef.,47,Sun,2027-11-21,planner
+가수,singer,그 가수를 좋아해요.,I like that singer.,48,Mon,2027-11-22,planner
+월급,monthly salary,월급을 받았어요.,I got my salary.,48,Tue,2027-11-23,planner
+출근하다,to go to work,아홉 시까지 출근해요.,I get to work by nine.,48,Wed,2027-11-24,planner
+퇴근하다,to leave work,여섯 시에 퇴근해요.,I leave work at six.,48,Thu,2027-11-25,planner
+일하다,to work,은행에서 일해요.,I work at a bank.,48,Fri,2027-11-26,planner
+바쁘다,to be busy,요즘 너무 바빠요.,I'm very busy these days.,48,Sat,2027-11-27,planner
+전화,"telephone, phone call",전화를 받으세요.,Please answer the phone.,48,Sun,2027-11-28,planner
+메일,email,메일을 보냈어요.,I sent an email.,49,Mon,2027-11-29,planner
+준비하다,to prepare,회의를 준비해요.,I'm preparing for the meeting.,49,Tue,2027-11-30,planner
+끝나다,"to end, to be over",일이 일찍 끝났어요.,Work finished early.,49,Wed,2027-12-01,planner
+시작하다,"to start, to begin",새 일을 시작했어요.,I started a new job.,49,Thu,2027-12-02,planner
+취미,hobby,취미가 뭐예요?,What is your hobby?,49,Fri,2027-12-03,planner
+운동,"exercise, sports",저는 운동을 좋아해요.,I like exercising.,49,Sat,2027-12-04,planner
+축구,"soccer, football",친구들과 축구를 해요.,I play soccer with my friends.,49,Sun,2027-12-05,planner
+수영,swimming,수영을 배우고 있어요.,I'm learning to swim.,50,Mon,2027-12-06,planner
+노래,song,노래를 잘 불러요.,I sing well.,50,Tue,2027-12-07,planner
+음악,music,음악을 들으면서 공부해요.,I study while listening to music.,50,Wed,2027-12-08,planner
+영화,"movie, film",영화를 보러 갈까요?,Shall we go see a movie?,50,Thu,2027-12-09,planner
+사진,"photo, photograph",사진을 찍어 주세요.,Please take a picture.,50,Fri,2027-12-10,planner
+그림,"drawing, painting",그림을 그리고 있어요.,I'm drawing a picture.,50,Sat,2027-12-11,planner
+게임,game,동생과 게임을 해요.,I play games with my younger sibling.,50,Sun,2027-12-12,planner
+산,mountain,주말에 산에 가요.,I go to the mountains on weekends.,51,Mon,2027-12-13,planner
+등산,"hiking, mountain climbing",아버지와 등산을 했어요.,I went hiking with my father.,51,Tue,2027-12-14,planner
+춤,dance,춤을 추는 것을 좋아해요.,I like dancing.,51,Wed,2027-12-15,planner
+피아노,piano,피아노를 칠 수 있어요.,I can play the piano.,51,Thu,2027-12-16,planner
+산책,"walk, stroll",저녁에 산책을 해요.,I take a walk in the evening.,51,Fri,2027-12-17,planner
+듣다,"to listen, to hear",라디오를 들어요.,I listen to the radio.,51,Sat,2027-12-18,planner
+보다,"to see, to watch",텔레비전을 봐요.,I watch TV.,51,Sun,2027-12-19,planner
+놀다,"to hang out, to have fun",친구 집에서 놀았어요.,I hung out at my friend's house.,52,Mon,2027-12-20,planner
+좋아하다,to like,고양이를 좋아해요.,I like cats.,52,Tue,2027-12-21,planner
+재미있다,"to be fun, interesting",이 드라마는 재미있어요.,This drama is interesting.,52,Wed,2027-12-22,planner
+여행,"trip, travel",제주도로 여행을 가요.,I'm going on a trip to Jeju Island.,52,Thu,2027-12-23,planner
+여권,passport,여권을 잊지 마세요.,Don't forget your passport.,52,Fri,2027-12-24,planner
+호텔,hotel,호텔을 예약했어요.,I booked a hotel.,52,Sat,2027-12-25,planner
+공항,airport,공항까지 한 시간 걸려요.,It takes an hour to get to the airport.,52,Sun,2027-12-26,planner
+표,ticket,표를 두 장 샀어요.,I bought two tickets.,53,Mon,2027-12-27,planner
+지도,map,지도를 보면서 걸어요.,I walk while looking at the map.,53,Tue,2027-12-28,planner
+바다,"sea, ocean",바다가 정말 아름다워요.,The sea is really beautiful.,53,Wed,2027-12-29,planner
+외국,foreign country,외국에서 살고 싶어요.,I want to live abroad.,53,Thu,2027-12-30,planner
+나라,"country, nation",어느 나라 사람이에요?,Which country are you from?,53,Fri,2027-12-31,planner
+짐,"luggage, baggage",짐이 너무 많아요.,I have too much luggage.,53,Sat,2028-01-01,planner
+관광,"sightseeing, tourism",시내 관광을 했어요.,I went sightseeing downtown.,53,Sun,2028-01-02,planner
+휴가,"vacation, time off",휴가 때 여행을 가요.,I travel during my vacation.,54,Mon,,free bonus pages
+경치,"scenery, view",여기는 경치가 좋아요.,The view here is nice.,54,Tue,,free bonus pages
+예약하다,"to reserve, to book",식당을 예약했어요.,I reserved a table at a restaurant.,54,Wed,,free bonus pages
+출발하다,to depart (opposite of arrive),기차가 곧 출발해요.,The train is leaving soon.,54,Thu,,free bonus pages
+도착하다,to arrive,방금 도착했어요.,I just arrived.,54,Fri,,free bonus pages
+구경하다,to look around (a place),시장을 구경했어요.,I looked around the market.,54,Sat,,free bonus pages
+떠나다,"to leave, to go away",내일 여행을 떠나요.,I'm leaving on a trip tomorrow.,54,Sun,,free bonus pages
+찍다,to take (a photo),바다 사진을 찍었어요.,I took pictures of the sea.,55,Mon,,free bonus pages
+즐겁다,"to be enjoyable, fun",여행이 즐거웠어요.,The trip was enjoyable.,55,Tue,,free bonus pages
+한국,Korea,한국에 친구가 있어요.,I have a friend in Korea.,55,Wed,,free bonus pages
+미국,the United States,미국에서 왔어요.,I'm from the United States.,55,Thu,,free bonus pages
+일본,Japan,일본은 한국과 가까워요.,Japan is close to Korea.,55,Fri,,free bonus pages
+중국,China,중국 음식을 좋아해요.,I like Chinese food.,55,Sat,,free bonus pages
+영어,English (language),영어를 조금 해요.,I speak a little English.,55,Sun,,free bonus pages
+외국어,foreign language,외국어를 배우고 싶어요.,I want to learn a foreign language.,56,Mon,,free bonus pages
+외국인,foreigner,외국인 친구가 많아요.,I have many foreign friends.,56,Tue,,free bonus pages
+유학,studying abroad,한국으로 유학을 왔어요.,I came to Korea to study.,56,Wed,,free bonus pages
+유학생,international student,저는 유학생이에요.,I'm an international student.,56,Thu,,free bonus pages
+대사관,embassy,대사관에 전화했어요.,I called the embassy.,56,Fri,,free bonus pages
+말,"speech, what someone says",말이 너무 빨라요.,You're talking too fast.,56,Sat,,free bonus pages
+글,"writing, text",이 글을 읽어 보세요.,Try reading this text.,56,Sun,,free bonus pages
+글자,"letter (of an alphabet), character",이 글자를 읽을 수 있어요?,Can you read this character?,57,Mon,,free bonus pages
+뜻,meaning,이 단어는 무슨 뜻이에요?,What does this word mean?,57,Tue,,free bonus pages
+이야기,"story, chat",재미있는 이야기를 들었어요.,I heard an interesting story.,57,Wed,,free bonus pages
+대화,conversation,친구와 대화를 했어요.,I had a conversation with a friend.,57,Thu,,free bonus pages
+설명,explanation,선생님 설명이 쉬워요.,The teacher's explanation is easy to understand.,57,Fri,,free bonus pages
+연습,practice,매일 쓰기 연습을 해요.,I practice writing every day.,57,Sat,,free bonus pages
+외우다,to memorize,단어를 외우고 있어요.,I'm memorizing words.,57,Sun,,free bonus pages
+묻다,to ask,길을 물었어요.,I asked for directions.,58,Mon,,free bonus pages
+동물,animal,어떤 동물을 좋아해요?,What animals do you like?,58,Tue,,free bonus pages
+개,dog,개가 공원에서 뛰어요.,A dog is running in the park.,58,Wed,,free bonus pages
+강아지,puppy,강아지가 정말 귀여워요.,The puppy is really cute.,58,Thu,,free bonus pages
+고양이,cat,고양이가 자고 있어요.,The cat is sleeping.,58,Fri,,free bonus pages
+토끼,rabbit,토끼가 정말 빨라요.,The rabbit is really fast.,58,Sat,,free bonus pages
+새,bird,나무 위에 새가 있어요.,There is a bird in the tree.,58,Sun,,free bonus pages
+물고기,fish (animal),강에 물고기가 많아요.,There are many fish in the river.,59,Mon,,free bonus pages
+동물원,zoo,주말에 동물원에 갔어요.,I went to the zoo on the weekend.,59,Tue,,free bonus pages
+꽃,flower,생일에 꽃을 받았어요.,I got flowers for my birthday.,59,Wed,,free bonus pages
+나무,tree,공원에 나무가 많아요.,There are many trees in the park.,59,Thu,,free bonus pages
+강,river,강에서 수영했어요.,I swam in the river.,59,Fri,,free bonus pages
+호수,lake,호수 옆을 걸었어요.,I walked beside the lake.,59,Sat,,free bonus pages
+섬,island,제주도는 큰 섬이에요.,Jeju is a big island.,59,Sun,,free bonus pages
+바닷가,"beach, seaside",바닷가를 산책해요.,I take a walk along the beach.,60,Mon,,free bonus pages
+해,sun,해가 졌어요.,The sun has set.,60,Tue,,free bonus pages
+별,star,하늘에 별이 많아요.,There are many stars in the sky.,60,Wed,,free bonus pages
+피다,to bloom,장미가 피었어요.,The roses have bloomed.,60,Thu,,free bonus pages
+날다,to fly,새가 하늘을 날아요.,A bird is flying in the sky.,60,Fri,,free bonus pages
+기르다,"to raise, to keep (a pet, a plant)",집에서 고양이를 길러요.,I keep a cat at home.,60,Sat,,free bonus pages
+자라다,"to grow (up), to get bigger",나무가 많이 자랐어요.,The tree has grown a lot.,60,Sun,,free bonus pages
+기분,"mood, feeling",오늘 기분이 좋아요.,I'm in a good mood today.,61,Mon,,free bonus pages
+마음,"heart, mind",마음이 따뜻한 사람이에요.,(He/She) is a warm-hearted person.,61,Tue,,free bonus pages
+기쁘다,"to be glad, pleased (about something)",선물을 받아서 기뻐요.,I'm glad I got a present.,61,Wed,,free bonus pages
+슬프다,to be sad,영화가 너무 슬퍼요.,The movie is so sad.,61,Thu,,free bonus pages
+행복하다,to be happy,지금 정말 행복해요.,I'm really happy now.,61,Fri,,free bonus pages
+화나다,to get angry,친구가 화났어요.,My friend got angry.,61,Sat,,free bonus pages
+무섭다,"to be scary, afraid",이 영화는 무서워요.,This movie is scary.,61,Sun,,free bonus pages
+걱정,"worry, concern",요즘 걱정이 많아요.,I have a lot of worries these days.,62,Mon,,free bonus pages
+외롭다,to be lonely,혼자 있어서 외로워요.,I'm lonely because I'm alone.,62,Tue,,free bonus pages
+심심하다,to be bored,할 일이 없어서 심심해요.,I'm bored because I have nothing to do.,62,Wed,,free bonus pages
+친절하다,"to be kind, helpful (to others)",직원이 아주 친절해요.,The staff are very kind.,62,Thu,,free bonus pages
+착하다,to be good-hearted (of character),제 동생은 착해요.,My younger sibling is good-natured.,62,Fri,,free bonus pages
+웃다,"to laugh, to smile",아기가 웃어요.,The baby is smiling.,62,Sat,,free bonus pages
+울다,to cry,아이가 울고 있어요.,The child is crying.,62,Sun,,free bonus pages
+좋다,"to be good, nice",이 노래가 좋아요.,I like this song.,63,Mon,,free bonus pages
+싫다,"to dislike, to not want",저는 비가 싫어요.,I don't like rain.,63,Tue,,free bonus pages
+놀라다,to be surprised,그 소식에 놀랐어요.,I was surprised by the news.,63,Wed,,free bonus pages
+부끄럽다,"to be embarrassed, shy",실수해서 부끄러워요.,I'm embarrassed because I made a mistake.,63,Thu,,free bonus pages
+고맙다,to be thankful,도와줘서 고마워요.,Thank you for helping me.,63,Fri,,free bonus pages
+미안하다,to be sorry,늦어서 미안해요.,Sorry I'm late.,63,Sat,,free bonus pages
+약속,"appointment, plans, promise",오늘 친구와 약속이 있어요.,I have plans with a friend today.,63,Sun,,free bonus pages
+초대,invitation,친구 생일 파티에 초대를 받았어요.,I was invited to a friend's birthday party.,64,Mon,,free bonus pages
+축하,congratulations,생일 축하해요.,Happy birthday.,64,Tue,,free bonus pages
+인사,greeting,선생님께 인사를 드렸어요.,I greeted the teacher.,64,Wed,,free bonus pages
+부탁,"favor, request",부탁이 하나 있어요.,I have a favor to ask.,64,Thu,,free bonus pages
+연락,"contact, getting in touch",나중에 연락할게요.,I'll contact you later.,64,Fri,,free bonus pages
+전화번호,phone number,전화번호가 뭐예요?,What's your phone number?,64,Sat,,free bonus pages
+주소,address,주소를 써 주세요.,Please write your address.,64,Sun,,free bonus pages
+편의점,convenience store,편의점에서 물을 샀어요.,I bought water at the convenience store.,65,Mon,,free bonus pages
+마트,supermarket,마트에서 우유를 샀어요.,I bought milk at the supermarket.,65,Tue,,free bonus pages
+영수증,receipt,영수증 주세요.,"A receipt, please.",65,Wed,,free bonus pages
+현금,cash,현금으로 낼게요.,I'll pay in cash.,65,Thu,,free bonus pages
+할인,discount,오늘은 할인을 해요.,There's a discount today.,65,Fri,,free bonus pages
+아르바이트,part-time job,주말에 아르바이트를 해요.,I work a part-time job on weekends.,65,Sat,,free bonus pages
+소포,"parcel, package",어머니께 소포를 보냈어요.,I sent a package to my mother.,65,Sun,,free bonus pages
+우표,postage stamp,편지에 우표를 붙여요.,I put a stamp on the letter.,66,Mon,,free bonus pages
+자동차,car,새 자동차를 샀어요.,I bought a new car.,66,Tue,,free bonus pages
+운전,driving,운전을 배우고 있어요.,I'm learning to drive.,66,Wed,,free bonus pages
+주차장,parking lot,주차장이 어디예요?,Where is the parking lot?,66,Thu,,free bonus pages
+교통,"transportation, traffic",서울은 교통이 편해요.,Transportation in Seoul is convenient.,66,Fri,,free bonus pages
+모르다,to not know,길을 잘 몰라요.,I don't really know the way.,66,Sat,,free bonus pages
+되다,to become,의사가 되고 싶어요.,I want to become a doctor.,66,Sun,,free bonus pages
+나오다,to come out,친구가 집에서 나왔어요.,My friend came out of the house.,67,Mon,,free bonus pages
+들어오다,to come in,들어오세요.,"Come in, please.",67,Tue,,free bonus pages
+넣다,to put in,가방에 책을 넣어요.,I put the book in my bag.,67,Wed,,free bonus pages
+꺼내다,to take out,지갑에서 돈을 꺼냈어요.,I took money out of my wallet.,67,Thu,,free bonus pages
+놓다,"to put down, to place",책을 책상 위에 놓으세요.,Please put the book on the desk.,67,Fri,,free bonus pages
+켜다,to turn on,불을 켜 주세요.,Please turn on the light.,67,Sat,,free bonus pages
+끄다,to turn off,텔레비전을 꺼 주세요.,Please turn off the TV.,67,Sun,,free bonus pages
+빌리다,to borrow,도서관에서 책을 빌렸어요.,I borrowed a book from the library.,68,Mon,,free bonus pages
+잊다,to forget,약속을 잊었어요.,I forgot about our plans.,68,Tue,,free bonus pages
+기억하다,to remember,제 이름을 기억해요?,Do you remember my name?,68,Wed,,free bonus pages
+부르다,"to call (a name, a taxi), to sing (a song)",친구 이름을 불렀어요.,I called my friend's name.,68,Thu,,free bonus pages
+버리다,to throw away,쓰레기를 버려요.,I throw away the trash.,68,Fri,,free bonus pages
+고치다,"to fix, to repair",컴퓨터를 고쳤어요.,I fixed the computer.,68,Sat,,free bonus pages
+보이다,"to be visible, can be seen",여기서 바다가 보여요.,You can see the sea from here.,68,Sun,,free bonus pages
+들리다,"to be audible, can be heard",음악 소리가 들려요.,I can hear music.,69,Mon,,free bonus pages
+뛰다,"to run, to jump",아이들이 뛰고 있어요.,The children are running.,69,Tue,,free bonus pages
+눕다,to lie down,침대에 누워요.,I lie down on the bed.,69,Wed,,free bonus pages
+일어서다,to stand up,모두 일어서세요.,"Everyone, please stand up.",69,Thu,,free bonus pages
+높다,"to be high, tall (mountain, building)",산이 정말 높아요.,The mountain is really high.,69,Fri,,free bonus pages
+낮다,to be low,이 의자는 너무 낮아요.,This chair is too low.,69,Sat,,free bonus pages
+넓다,"to be wide, spacious",거실이 넓어요.,The living room is spacious.,69,Sun,,free bonus pages
+좁다,"to be narrow, cramped",길이 좁아요.,The road is narrow.,70,Mon,,free bonus pages
+무겁다,to be heavy,짐이 너무 무거워요.,The luggage is too heavy.,70,Tue,,free bonus pages
+가볍다,to be light (weight),이 가방은 가벼워요.,This bag is light.,70,Wed,,free bonus pages
+밝다,to be bright,방이 아주 밝아요.,The room is very bright.,70,Thu,,free bonus pages
+어둡다,to be dark,밖이 벌써 어두워요.,It's already dark outside.,70,Fri,,free bonus pages
+깨끗하다,to be clean,방이 깨끗해요.,The room is clean.,70,Sat,,free bonus pages
+더럽다,to be dirty,신발이 더러워요.,My shoes are dirty.,70,Sun,,free bonus pages
+뜨겁다,to be hot (to the touch),커피가 뜨거워요.,The coffee is hot.,71,Mon,,free bonus pages
+차갑다,to be cold (to the touch),물이 차가워요.,The water is cold.,71,Tue,,free bonus pages
+같다,to be the same,우리는 나이가 같아요.,We are the same age.,71,Wed,,free bonus pages
+다르다,to be different,언니와 저는 성격이 달라요.,My older sister and I have different personalities.,71,Thu,,free bonus pages
+재미없다,to be boring,그 영화는 재미없어요.,That movie is boring.,71,Fri,,free bonus pages
+반갑다,to be glad (to see someone),만나서 반가워요.,Nice to meet you.,71,Sat,,free bonus pages
+시끄럽다,to be noisy,교실이 시끄러워요.,The classroom is noisy.,71,Sun,,free bonus pages
+편하다,"to be comfortable, convenient",이 신발은 편해요.,These shoes are comfortable.,72,Mon,,free bonus pages
+불편하다,"to be uncomfortable, inconvenient",의자가 좀 불편해요.,The chair is a little uncomfortable.,72,Tue,,free bonus pages
+어리다,to be young (a child),제 동생은 아직 어려요.,My younger sibling is still young.,72,Wed,,free bonus pages
