@@ -1,0 +1,501 @@
+﻿Korean,English,Part of speech,Example (Korean),Example (English),Theme
+가족,family,noun,우리 가족은 네 명이에요.,There are four people in my family.,People & Family
+부모님,parents,noun,부모님께 전화했어요.,I called my parents.,People & Family
+아버지,father,noun,아버지는 회사원이에요.,My father is an office worker.,People & Family
+어머니,mother,noun,어머니가 요리를 하세요.,My mother is cooking.,People & Family
+형,older brother (said by a male),noun,형은 키가 커요.,My older brother is tall.,People & Family
+누나,older sister (said by a male),noun,누나가 선물을 줬어요.,My older sister gave me a gift.,People & Family
+언니,older sister (said by a female),noun,언니와 영화를 봤어요.,I watched a movie with my older sister.,People & Family
+오빠,older brother (said by a female),noun,오빠는 대학생이에요.,My older brother is a college student.,People & Family
+동생,younger sibling,noun,동생이 한 명 있어요.,I have one younger sibling.,People & Family
+할머니,grandmother,noun,할머니 댁에 가요.,I'm going to my grandmother's house.,People & Family
+할아버지,grandfather,noun,할아버지는 건강하세요.,My grandfather is healthy.,People & Family
+아이,child,noun,아이가 웃고 있어요.,The child is smiling.,People & Family
+친구,friend,noun,주말에 친구를 만나요.,I meet a friend on the weekend.,People & Family
+이름,name,noun,이름이 뭐예요?,What is your name?,People & Family
+나이,age,noun,나이가 어떻게 되세요?,How old are you? (polite),People & Family
+남자,"man, male",noun,저 남자는 제 형이에요.,That man over there is my older brother.,People & Family
+여자,"woman, female",noun,그 여자는 의사예요.,That woman is a doctor.,People & Family
+결혼하다,to get married,verb,언니가 내년에 결혼해요.,My older sister is getting married next year.,People & Family
+사랑하다,to love,verb,가족을 사랑해요.,I love my family.,People & Family
+소개하다,to introduce,verb,제 친구를 소개할게요.,Let me introduce my friend.,People & Family
+저,"I, me (polite)",noun,저는 대학생이에요.,I'm a college student.,Pronouns & Question Words
+우리,"we, us, our (also ""my"" for family, home)",noun,우리 같이 공부해요.,Let's study together.,Pronouns & Question Words
+이것,this (thing),noun,이것은 제 가방이에요.,This is my bag.,Pronouns & Question Words
+그것,that (thing near you),noun,그것 좀 주세요.,Please give me that.,Pronouns & Question Words
+저것,that (thing over there),noun,저것은 뭐예요?,What is that over there?,Pronouns & Question Words
+여기,here,noun,여기가 어디예요?,Where is this place?,Pronouns & Question Words
+거기,there (near you),noun,거기 날씨는 어때요?,How's the weather there?,Pronouns & Question Words
+저기,over there,noun,저기에 은행이 있어요.,There's a bank over there.,Pronouns & Question Words
+누구,who,noun,이 사람은 누구예요?,Who is this person?,Pronouns & Question Words
+언제,when,noun,생일이 언제예요?,When is your birthday?,Pronouns & Question Words
+어디,where,noun,집이 어디예요?,Where is your house?,Pronouns & Question Words
+무엇,what (short form: 뭐),noun,무엇을 먹고 싶어요?,What do you want to eat?,Pronouns & Question Words
+왜,why,adverb,왜 늦었어요?,Why were you late?,Pronouns & Question Words
+어떻게,how,adverb,학교에 어떻게 가요?,How do you get to school?,Pronouns & Question Words
+몇,"how many, what (with counters)",noun,가족이 몇 명이에요?,How many people are in your family?,Pronouns & Question Words
+그분,"that person; he, she (honorific)",noun,그분은 제 선생님이세요.,He is my teacher.,Pronouns & Question Words
+모두,"everyone, all (of them)",adverb,모두 같이 노래해요.,Everyone sings together.,Pronouns & Question Words
+다,"all, completely (nothing left)",adverb,밥을 다 먹었어요.,I ate all my food.,Pronouns & Question Words
+서로,each other,adverb,우리는 서로 도와요.,We help each other.,Pronouns & Question Words
+그때,"at that time, then",noun,그때 저는 학생이었어요.,I was a student then.,Pronouns & Question Words
+가다,to go,verb,내일 부산에 가요.,I'm going to Busan tomorrow.,Common Verbs
+오다,to come,verb,친구가 집에 와요.,My friend is coming to my house.,Common Verbs
+하다,to do,verb,지금 뭐 해요?,What are you doing now?,Common Verbs
+있다,"to exist, to be (somewhere), to have",adjective,시간이 있어요?,Do you have time?,Common Verbs
+없다,"to not exist, to not have",adjective,오늘은 수업이 없어요.,I don't have class today.,Common Verbs
+만나다,to meet,verb,역에서 친구를 만나요.,I meet my friend at the station.,Common Verbs
+기다리다,to wait,verb,잠깐만 기다리세요.,Please wait a moment.,Common Verbs
+쓰다,to write,verb,편지를 쓰고 있어요.,I'm writing a letter.,Common Verbs
+읽다,to read,verb,신문을 읽어요.,I read the newspaper.,Common Verbs
+말하다,"to speak, to say",verb,천천히 말해 주세요.,Please speak slowly.,Common Verbs
+주다,to give,verb,동생에게 책을 줬어요.,I gave a book to my younger sibling.,Common Verbs
+받다,"to receive, to get",verb,친구한테서 편지를 받았어요.,I received a letter from a friend.,Common Verbs
+찾다,"to look for, to find",verb,열쇠를 찾고 있어요.,I'm looking for my keys.,Common Verbs
+돕다,to help,verb,제가 도와 드릴게요.,Let me help you.,Common Verbs
+보내다,to send,verb,사진을 보내 주세요.,Please send me the picture.,Common Verbs
+걷다,to walk,verb,매일 삼십 분 걸어요.,I walk thirty minutes every day.,Common Verbs
+앉다,to sit,verb,여기 앉아도 돼요?,May I sit here?,Common Verbs
+서다,to stand,verb,문 앞에 서 있어요.,I'm standing in front of the door.,Common Verbs
+만들다,to make,verb,케이크를 만들었어요.,I made a cake.,Common Verbs
+생각하다,to think,verb,잘 생각해 보세요.,Think it over carefully.,Common Verbs
+크다,to be big,adjective,이 옷은 너무 커요.,These clothes are too big.,Adjectives & Adverbs
+작다,to be small,adjective,가방이 작아요.,The bag is small.,Adjectives & Adverbs
+많다,"to be many, a lot",adjective,사람이 많아요.,There are a lot of people.,Adjectives & Adverbs
+적다,"to be few, scarce (in amount)",adjective,오늘은 손님이 적어요.,There are few customers today.,Adjectives & Adverbs
+길다,to be long,adjective,여동생은 머리가 길어요.,My younger sister has long hair.,Adjectives & Adverbs
+짧다,to be short (in length or time),adjective,수업이 짧았어요.,The class was short.,Adjectives & Adverbs
+쉽다,to be easy,adjective,이 문제는 쉬워요.,This problem is easy.,Adjectives & Adverbs
+어렵다,to be difficult,adjective,한국어가 어려워요?,Is Korean difficult?,Adjectives & Adverbs
+예쁘다,to be pretty,adjective,꽃이 정말 예뻐요.,The flowers are really pretty.,Adjectives & Adverbs
+나쁘다,to be bad,adjective,날씨가 나빠요.,The weather is bad.,Adjectives & Adverbs
+빠르다,to be fast,adjective,기차가 아주 빨라요.,The train is very fast.,Adjectives & Adverbs
+느리다,to be slow,adjective,인터넷이 느려요.,The internet is slow.,Adjectives & Adverbs
+조용하다,to be quiet,adjective,도서관은 조용해요.,The library is quiet.,Adjectives & Adverbs
+아주,very,adverb,아주 맛있어요.,It's very delicious.,Adjectives & Adverbs
+너무,too (much),adverb,너무 비싸요.,It's too expensive.,Adjectives & Adverbs
+자주,often,adverb,자주 연락하세요.,Keep in touch often.,Adjectives & Adverbs
+같이,together,adverb,같이 가요.,Let's go together.,Adjectives & Adverbs
+빨리,quickly,adverb,빨리 오세요.,Please come quickly.,Adjectives & Adverbs
+천천히,slowly,adverb,천천히 드세요.,Please eat slowly.,Adjectives & Adverbs
+다시,again,adverb,다시 한번 말해 주세요.,Please say it one more time.,Adjectives & Adverbs
+위,"top, above",noun,책상 위에 책이 있어요.,There is a book on the desk.,Position & Direction
+아래,"below, under",noun,창문 아래에 꽃이 있어요.,There are flowers below the window.,Position & Direction
+앞,"front, in front of",noun,집 앞에서 기다려요.,I'm waiting in front of the house.,Position & Direction
+뒤,"back, behind",noun,학교 뒤에 산이 있어요.,There is a mountain behind the school.,Position & Direction
+옆,"side, next to",noun,제 옆에 앉으세요.,Please sit next to me.,Position & Direction
+안,inside,noun,가방 안에 지갑이 있어요.,My wallet is in the bag.,Position & Direction
+밖,outside,noun,밖이 시끄러워요.,It's noisy outside.,Position & Direction
+사이,between,noun,우체국은 은행과 약국 사이예요.,The post office is between the bank and the pharmacy.,Position & Direction
+근처,"near, vicinity",noun,이 근처에 식당이 있어요?,Is there a restaurant near here?,Position & Direction
+가운데,"middle, center",noun,사진 가운데가 저예요.,I'm the one in the middle of the photo.,Position & Direction
+동쪽,east,noun,해가 동쪽에서 떠요.,The sun rises in the east.,Position & Direction
+서쪽,west,noun,해가 서쪽으로 져요.,The sun sets in the west.,Position & Direction
+남쪽,south,noun,남쪽은 겨울에도 따뜻해요.,The south is warm even in winter.,Position & Direction
+북쪽,north,noun,북쪽은 겨울이 길어요.,Winters are long in the north.,Position & Direction
+똑바로,straight (ahead),adverb,똑바로 가세요.,Go straight ahead.,Position & Direction
+멀다,to be far,adjective,역이 여기서 멀어요?,Is the station far from here?,Position & Direction
+들어가다,"to go in, to enter",verb,방에 들어가세요.,Please go into the room.,Position & Direction
+나가다,to go out,verb,잠깐 밖에 나가요.,I'm stepping out for a moment.,Position & Direction
+올라가다,to go up,verb,계단으로 올라가요.,I go up the stairs.,Position & Direction
+내려가다,to go down,verb,일 층으로 내려가세요.,Please go down to the first floor.,Position & Direction
+학교,school,noun,학교에 걸어서 가요.,I walk to school.,School & Study
+학생,student,noun,저는 학생이에요.,I am a student.,School & Study
+선생님,teacher,noun,선생님이 친절하세요.,The teacher is kind.,School & Study
+교실,classroom,noun,교실에 학생이 많아요.,There are many students in the classroom.,School & Study
+수업,"class, lesson",noun,수업이 아홉 시에 시작해요.,Class starts at nine.,School & Study
+숙제,homework,noun,숙제를 다 했어요.,I finished all my homework.,School & Study
+시험,"exam, test",noun,내일 시험이 있어요.,I have an exam tomorrow.,School & Study
+책,book,noun,책을 읽고 있어요.,I'm reading a book.,School & Study
+공책,notebook,noun,공책에 이름을 쓰세요.,Write your name in the notebook.,School & Study
+연필,pencil,noun,연필 좀 빌려주세요.,Please lend me a pencil.,School & Study
+사전,dictionary,noun,사전에서 단어를 찾아요.,I look up words in the dictionary.,School & Study
+단어,"word, vocabulary",noun,이 단어가 어려워요.,This word is difficult.,School & Study
+문제,"problem, test item",noun,문제를 잘 읽으세요.,Read the problem carefully.,School & Study
+질문,question (that you ask),noun,질문이 있어요.,I have a question.,School & Study
+대답,"answer, reply",noun,친구의 대답을 기다려요.,I'm waiting for my friend's answer.,School & Study
+도서관,library,noun,도서관에서 공부해요.,I study at the library.,School & Study
+공부하다,to study,verb,매일 한국어를 공부해요.,I study Korean every day.,School & Study
+배우다,to learn,verb,피아노를 배우고 싶어요.,I want to learn the piano.,School & Study
+가르치다,to teach,verb,저는 영어를 가르쳐요.,I teach English.,School & Study
+알다,to know,verb,그 사람을 알아요.,I know that person.,School & Study
+집,"house, home",noun,집에서 쉬고 있어요.,I'm resting at home.,Home & Daily Life
+방,room,noun,제 방은 작아요.,My room is small.,Home & Daily Life
+부엌,kitchen,noun,부엌에서 요리해요.,I cook in the kitchen.,Home & Daily Life
+화장실,"bathroom, restroom",noun,화장실이 어디예요?,Where is the restroom?,Home & Daily Life
+창문,window,noun,창문을 열어 주세요.,Please open the window.,Home & Daily Life
+문,door,noun,문을 닫으세요.,"Close the door, please.",Home & Daily Life
+침대,bed,noun,침대가 아주 편해요.,The bed is very comfortable.,Home & Daily Life
+의자,chair,noun,의자에 앉으세요.,Please sit on the chair.,Home & Daily Life
+책상,desk,noun,책상 위에 컴퓨터가 있어요.,There is a computer on the desk.,Home & Daily Life
+냉장고,refrigerator,noun,냉장고에 우유가 있어요.,There is milk in the refrigerator.,Home & Daily Life
+옷,clothes,noun,옷을 갈아입어요.,I change my clothes.,Home & Daily Life
+청소,cleaning,noun,주말에 청소를 해요.,I clean on weekends.,Home & Daily Life
+빨래,laundry,noun,오늘 빨래를 했어요.,I did the laundry today.,Home & Daily Life
+일어나다,"to get up, to wake up",verb,일곱 시에 일어나요.,I get up at seven.,Home & Daily Life
+자다,to sleep,verb,열한 시에 자요.,I go to bed at eleven.,Home & Daily Life
+씻다,to wash,verb,손을 깨끗이 씻으세요.,Wash your hands well.,Home & Daily Life
+살다,to live,verb,서울에 살아요.,I live in Seoul.,Home & Daily Life
+쉬다,to rest,verb,오늘은 집에서 쉬어요.,Today I'm resting at home.,Home & Daily Life
+열다,to open,verb,상자를 열어 보세요.,Try opening the box.,Home & Daily Life
+닫다,"to close, to shut",verb,창문을 닫았어요.,I closed the window.,Home & Daily Life
+아파트,apartment,noun,아파트에 살아요.,I live in an apartment.,Things at Home
+거실,living room,noun,거실에서 텔레비전을 봐요.,I watch TV in the living room.,Things at Home
+계단,stairs,noun,계단이 좀 많아요.,There are quite a few stairs.,Things at Home
+엘리베이터,elevator,noun,엘리베이터를 타세요.,Please take the elevator.,Things at Home
+소파,sofa,noun,소파에 앉아서 쉬어요.,I sit on the sofa and rest.,Things at Home
+시계,"clock, watch",noun,시계가 멈췄어요.,The clock stopped.,Things at Home
+텔레비전,"television, TV",noun,텔레비전이 거실에 있어요.,The TV is in the living room.,Things at Home
+컴퓨터,computer,noun,컴퓨터로 숙제를 해요.,I do my homework on the computer.,Things at Home
+이불,"blanket, comforter",noun,이불이 따뜻해요.,The blanket is warm.,Things at Home
+수건,towel,noun,수건 좀 주세요.,Please give me a towel.,Things at Home
+비누,soap,noun,비누로 손을 씻어요.,I wash my hands with soap.,Things at Home
+칫솔,toothbrush,noun,새 칫솔을 샀어요.,I bought a new toothbrush.,Things at Home
+거울,mirror,noun,거울을 보고 있어요.,I'm looking in the mirror.,Things at Home
+열쇠,key,noun,열쇠를 집에 두고 왔어요.,I left my key at home.,Things at Home
+휴지,"tissue, toilet paper",noun,화장실에 휴지가 없어요.,There's no toilet paper in the restroom.,Things at Home
+쓰레기,"trash, garbage",noun,쓰레기가 너무 많아요.,There is too much trash.,Things at Home
+세탁기,washing machine,noun,세탁기가 고장 났어요.,The washing machine is broken.,Things at Home
+설거지,washing the dishes,noun,밥을 먹고 설거지를 해요.,I wash the dishes after eating.,Things at Home
+이사,moving (house),noun,다음 달에 이사를 해요.,I'm moving next month.,Things at Home
+동네,neighborhood,noun,우리 동네는 조용해요.,My neighborhood is quiet.,Things at Home
+음식,food,noun,한국 음식을 좋아해요.,I like Korean food.,Food & Restaurants
+밥,"cooked rice, meal",noun,같이 밥을 먹어요.,Let's have a meal together.,Food & Restaurants
+물,water,noun,물 한 잔 주세요.,"A glass of water, please.",Food & Restaurants
+커피,coffee,noun,아침마다 커피를 마셔요.,I drink coffee every morning.,Food & Restaurants
+우유,milk,noun,우유를 사러 가요.,I'm going to buy milk.,Food & Restaurants
+고기,meat,noun,저는 고기를 안 먹어요.,I don't eat meat.,Food & Restaurants
+과일,fruit,noun,과일을 자주 먹어요.,I eat fruit often.,Food & Restaurants
+사과,apple,noun,사과가 정말 달아요.,The apple is really sweet.,Food & Restaurants
+김치,kimchi,noun,김치가 좀 매워요.,The kimchi is a little spicy.,Food & Restaurants
+식당,restaurant,noun,식당에 사람이 많아요.,There are many people in the restaurant.,Food & Restaurants
+메뉴,menu,noun,메뉴 좀 보여 주세요.,Please show me the menu.,Food & Restaurants
+아침,"morning, breakfast",noun,아침을 먹었어요?,Did you eat breakfast?,Food & Restaurants
+점심,"lunch, midday",noun,점심에 비빔밥을 먹었어요.,I had bibimbap for lunch.,Food & Restaurants
+저녁,"evening, dinner",noun,저녁에 친구를 만나요.,I'm meeting a friend in the evening.,Food & Restaurants
+먹다,to eat,verb,빵을 먹고 싶어요.,I want to eat bread.,Food & Restaurants
+마시다,to drink,verb,주스를 마셨어요.,I drank juice.,Food & Restaurants
+맛있다,to be delicious,adjective,이 빵이 맛있어요.,This bread is delicious.,Food & Restaurants
+맵다,to be spicy,adjective,떡볶이가 너무 매워요.,The tteokbokki is too spicy.,Food & Restaurants
+주문하다,to order,verb,커피를 주문했어요.,I ordered coffee.,Food & Restaurants
+맛없다,to taste bad,adjective,이 음식은 맛없어요.,This food doesn't taste good.,Food & Restaurants
+라면,"ramyeon, instant noodles",noun,라면을 끓여 먹었어요.,I cooked and ate ramyeon.,More Food: Ingredients & Taste
+김밥,gimbap (rice rolls),noun,소풍 때 김밥을 먹어요.,We eat gimbap on picnics.,More Food: Ingredients & Taste
+불고기,bulgogi (marinated beef),noun,불고기가 달고 맛있어요.,The bulgogi is sweet and tasty.,More Food: Ingredients & Taste
+국,soup,noun,국이 좀 뜨거워요.,The soup is a little hot.,More Food: Ingredients & Taste
+반찬,side dish,noun,반찬이 정말 많아요.,There are so many side dishes.,More Food: Ingredients & Taste
+계란,egg,noun,아침에 계란을 먹어요.,I eat eggs in the morning.,More Food: Ingredients & Taste
+생선,fish (as food),noun,저녁에 생선을 구웠어요.,I grilled fish for dinner.,More Food: Ingredients & Taste
+소고기,beef,noun,소고기가 좀 비싸요.,Beef is a little expensive.,More Food: Ingredients & Taste
+돼지고기,pork,noun,돼지고기를 샀어요.,I bought pork.,More Food: Ingredients & Taste
+야채,vegetables,noun,야채를 많이 드세요.,Eat lots of vegetables.,More Food: Ingredients & Taste
+쌀,rice (uncooked),noun,시장에서 쌀을 샀어요.,I bought rice at the market.,More Food: Ingredients & Taste
+소금,salt,noun,소금을 조금 넣으세요.,Add a little salt.,More Food: Ingredients & Taste
+설탕,sugar,noun,커피에 설탕을 넣어요?,Do you put sugar in your coffee?,More Food: Ingredients & Taste
+맛,"taste, flavor",noun,맛이 어때요?,How does it taste?,More Food: Ingredients & Taste
+짜다,to be salty,adjective,국이 좀 짜요.,The soup is a little salty.,More Food: Ingredients & Taste
+달다,to be sweet,adjective,이 과자는 너무 달아요.,These snacks are too sweet.,More Food: Ingredients & Taste
+싱겁다,to be bland (not salty enough),adjective,음식이 좀 싱거워요.,The food is a little bland.,More Food: Ingredients & Taste
+끓이다,"to boil, to cook (soup)",verb,물을 먼저 끓이세요.,Boil the water first.,More Food: Ingredients & Taste
+젓가락,chopsticks,noun,젓가락으로 밥을 먹어요.,I eat rice with chopsticks.,More Food: Ingredients & Taste
+숟가락,spoon,noun,숟가락 하나 더 주세요.,"One more spoon, please.",More Food: Ingredients & Taste
+돈,money,noun,돈이 조금 있어요.,I have a little money.,Shopping & Money
+가게,"store, shop",noun,가게가 열 시에 문을 열어요.,The store opens at ten.,Shopping & Money
+시장,market,noun,시장에서 과일을 샀어요.,I bought fruit at the market.,Shopping & Money
+백화점,department store,noun,백화점에서 옷을 사요.,I buy clothes at the department store.,Shopping & Money
+가격,price,noun,가격이 좀 높아요.,The price is a bit high.,Shopping & Money
+원,won (Korean currency),noun,이 책은 만 원이에요.,This book is ten thousand won.,Shopping & Money
+카드,card,noun,카드로 계산할게요.,I'll pay by card.,Shopping & Money
+손님,"customer, guest",noun,가게에 손님이 많아요.,There are many customers in the store.,Shopping & Money
+신발,shoes,noun,새 신발을 샀어요.,I bought new shoes.,Shopping & Money
+가방,bag,noun,가방이 무거워요.,The bag is heavy.,Shopping & Money
+모자,"hat, cap",noun,저는 모자가 많아요.,I have a lot of hats.,Shopping & Money
+선물,"gift, present",noun,생일 선물을 받았어요.,I received a birthday present.,Shopping & Money
+사다,to buy,verb,꽃을 사고 싶어요.,I want to buy flowers.,Shopping & Money
+팔다,to sell,verb,여기서 우산을 팔아요?,Do you sell umbrellas here?,Shopping & Money
+비싸다,to be expensive,adjective,이 시계는 비싸요.,This watch is expensive.,Shopping & Money
+싸다,to be cheap,adjective,시장에서는 과일이 싸요.,Fruit is cheap at the market.,Shopping & Money
+계산하다,"to pay the bill, to calculate",verb,어디에서 계산해요?,Where do I pay?,Shopping & Money
+바꾸다,"to change, to exchange",verb,다른 색으로 바꿔 주세요.,Please exchange it for another color.,Shopping & Money
+고르다,"to choose, to pick",verb,선물을 같이 골라요.,Let's choose a gift together.,Shopping & Money
+얼마,how much,noun,이거 얼마예요?,How much is this?,Shopping & Money
+시간,"time, hour",noun,지금은 시간이 없어요.,I don't have time right now.,Time & Dates
+오늘,today,noun,오늘은 월요일이에요.,Today is Monday.,Time & Dates
+내일,tomorrow,noun,내일 다시 올게요.,I'll come again tomorrow.,Time & Dates
+어제,yesterday,noun,어제 영화를 봤어요.,I watched a movie yesterday.,Time & Dates
+주말,weekend,noun,주말에 뭐 해요?,What do you do on the weekend?,Time & Dates
+요일,day of the week,noun,오늘이 무슨 요일이에요?,What day of the week is it today?,Time & Dates
+날짜,date,noun,날짜를 써 주세요.,Please write the date.,Time & Dates
+생일,birthday,noun,제 생일은 오월이에요.,My birthday is in May.,Time & Dates
+오전,"a.m., before noon",noun,오전에 수업이 있어요.,I have class in the morning.,Time & Dates
+오후,"afternoon, p.m.",noun,오후 세 시에 만나요.,Let's meet at 3 p.m.,Time & Dates
+밤,night,noun,밤에 잠이 안 와요.,I can't fall asleep at night.,Time & Dates
+지금,now,noun,지금 몇 시예요?,What time is it now?,Time & Dates
+올해,this year,noun,올해 한국에 왔어요.,I came to Korea this year.,Time & Dates
+작년,last year,noun,작년에 졸업했어요.,I graduated last year.,Time & Dates
+다음 주,next week,noun,다음 주에 시험이 있어요.,I have an exam next week.,Time & Dates
+매일,every day,adverb,매일 운동해요.,I exercise every day.,Time & Dates
+달,month,noun,한 달 동안 여행했어요.,I traveled for a month.,Time & Dates
+분,minute,noun,십 분만 기다려 주세요.,Please wait just ten minutes.,Time & Dates
+일찍,early,adverb,오늘 일찍 일어났어요.,I got up early today.,Time & Dates
+늦다,to be late,verb,약속에 늦었어요.,I was late for my appointment.,Time & Dates
+날씨,weather,noun,오늘 날씨가 좋아요.,The weather is nice today.,Weather & Seasons
+봄,spring,noun,봄에 꽃이 피어요.,Flowers bloom in spring.,Weather & Seasons
+여름,summer,noun,여름에는 바다에 가요.,In summer I go to the sea.,Weather & Seasons
+가을,"autumn, fall",noun,가을에는 단풍이 예뻐요.,The autumn leaves are pretty in fall.,Weather & Seasons
+겨울,winter,noun,겨울에 눈이 많이 와요.,It snows a lot in winter.,Weather & Seasons
+비,rain,noun,비가 오고 있어요.,It's raining.,Weather & Seasons
+눈,snow,noun,밖에 눈이 와요.,It's snowing outside.,Weather & Seasons
+바람,wind,noun,바람이 많이 불어요.,The wind is blowing hard.,Weather & Seasons
+구름,cloud,noun,하늘에 구름이 많아요.,There are many clouds in the sky.,Weather & Seasons
+하늘,sky,noun,하늘이 파래요.,The sky is blue.,Weather & Seasons
+우산,umbrella,noun,우산을 가져가세요.,Take an umbrella with you.,Weather & Seasons
+덥다,to be hot (weather),adjective,오늘은 정말 더워요.,It's really hot today.,Weather & Seasons
+춥다,to be cold (weather),adjective,밖이 너무 추워요.,It's very cold outside.,Weather & Seasons
+따뜻하다,to be warm,adjective,봄 날씨가 따뜻해요.,The spring weather is warm.,Weather & Seasons
+시원하다,"to be cool, refreshing",adjective,바람이 시원해요.,The breeze is cool.,Weather & Seasons
+맑다,"to be clear, sunny",adjective,오늘은 하늘이 맑아요.,The sky is clear today.,Weather & Seasons
+흐리다,to be cloudy,adjective,날씨가 흐려요.,It's cloudy.,Weather & Seasons
+계절,season,noun,어느 계절을 좋아해요?,Which season do you like?,Weather & Seasons
+기온,temperature (air),noun,오늘 기온이 낮아요.,The temperature is low today.,Weather & Seasons
+불다,to blow,verb,차가운 바람이 불어요.,A cold wind is blowing.,Weather & Seasons
+버스,bus,noun,버스를 타고 가요.,I go by bus.,Transportation & Places
+지하철,subway,noun,지하철이 빨라요.,The subway is fast.,Transportation & Places
+택시,taxi,noun,택시를 불러 주세요.,Please call a taxi.,Transportation & Places
+기차,train,noun,기차로 부산에 가요.,I'm going to Busan by train.,Transportation & Places
+비행기,airplane,noun,비행기 표를 샀어요.,I bought a plane ticket.,Transportation & Places
+역,station,noun,역 앞에서 만나요.,Let's meet in front of the station.,Transportation & Places
+정류장,bus stop,noun,정류장에서 버스를 기다려요.,I wait for the bus at the bus stop.,Transportation & Places
+길,"road, way",noun,길을 잃어버렸어요.,I got lost.,Transportation & Places
+은행,bank,noun,은행이 몇 시에 열어요?,What time does the bank open?,Transportation & Places
+병원,hospital,noun,병원에 가야 해요.,I have to go to the hospital.,Transportation & Places
+약국,pharmacy,noun,약국은 저쪽에 있어요.,The pharmacy is over there.,Transportation & Places
+우체국,post office,noun,우체국에서 편지를 보냈어요.,I sent a letter at the post office.,Transportation & Places
+공원,park,noun,공원에서 산책해요.,I take a walk in the park.,Transportation & Places
+회사,"company, workplace",noun,회사가 집에서 멀어요.,My office is far from my house.,Transportation & Places
+왼쪽,left (side),noun,왼쪽으로 가세요.,Go to the left.,Transportation & Places
+오른쪽,right (side),noun,오른쪽에 은행이 있어요.,There is a bank on the right.,Transportation & Places
+타다,"to ride, to take (a vehicle)",verb,자전거를 타요.,I ride a bicycle.,Transportation & Places
+내리다,to get off,verb,다음 역에서 내려요.,I get off at the next station.,Transportation & Places
+갈아타다,to transfer (vehicles),verb,시청역에서 갈아타세요.,Transfer at City Hall Station.,Transportation & Places
+가깝다,"to be close, near",adjective,학교가 집에서 가까워요.,The school is close to my house.,Transportation & Places
+몸,body,noun,몸이 좀 안 좋아요.,I don't feel very well.,Body & Health
+머리,"head, hair",noun,머리가 아파요.,I have a headache.,Body & Health
+얼굴,face,noun,얼굴을 씻었어요.,I washed my face.,Body & Health
+손,hand,noun,손이 차가워요.,My hands are cold.,Body & Health
+발,foot,noun,발이 아파요.,My feet hurt.,Body & Health
+다리,leg,noun,다리를 다쳤어요.,I hurt my leg.,Body & Health
+배,"stomach, belly",noun,배가 아파요.,I have a stomachache.,Body & Health
+목,"neck, throat",noun,목이 아파요.,I have a sore throat.,Body & Health
+감기,cold (illness),noun,감기에 걸렸어요.,I caught a cold.,Body & Health
+열,fever,noun,열이 많이 나요.,I have a high fever.,Body & Health
+약,medicine,noun,약을 먹고 쉬세요.,Take some medicine and rest.,Body & Health
+의사,doctor,noun,의사 선생님을 만났어요.,I saw the doctor.,Body & Health
+간호사,nurse,noun,간호사가 친절해요.,The nurse is kind.,Body & Health
+아프다,"to be sick, to hurt",adjective,어디가 아프세요?,Where does it hurt?,Body & Health
+건강하다,to be healthy,adjective,건강하게 지내세요.,Stay healthy.,Body & Health
+기침,cough,noun,기침이 계속 나요.,I keep coughing.,Body & Health
+피곤하다,to be tired,adjective,오늘 너무 피곤해요.,I'm very tired today.,Body & Health
+다치다,to get injured,verb,넘어져서 다쳤어요.,I fell and got injured.,Body & Health
+낫다,"to get better, to recover",verb,감기가 다 나았어요.,My cold is completely gone.,Body & Health
+병,"illness, disease",noun,큰 병이 아니에요.,It's not a serious illness.,Body & Health
+바지,"pants, trousers",noun,바지가 좀 길어요.,The pants are a little long.,Clothes & Colors
+치마,skirt,noun,언니가 치마를 입고 있어요.,My older sister is wearing a skirt.,Clothes & Colors
+청바지,jeans,noun,주말에는 청바지를 입어요.,I wear jeans on weekends.,Clothes & Colors
+티셔츠,T-shirt,noun,티셔츠가 너무 커요.,The T-shirt is too big.,Clothes & Colors
+양말,socks,noun,양말을 신으세요.,Put on your socks.,Clothes & Colors
+구두,dress shoes,noun,구두가 좀 작아요.,The dress shoes are a little small.,Clothes & Colors
+운동화,sneakers,noun,운동화를 신고 걸어요.,I walk in sneakers.,Clothes & Colors
+안경,glasses (eyewear),noun,안경이 어디 있어요?,Where are my glasses?,Clothes & Colors
+지갑,wallet,noun,지갑을 잃어버렸어요.,I lost my wallet.,Clothes & Colors
+입다,"to wear, to put on (clothes)",verb,따뜻한 옷을 입으세요.,Wear warm clothes.,Clothes & Colors
+벗다,to take off,verb,신발을 벗으세요.,Please take off your shoes.,Clothes & Colors
+신다,"to put on (shoes, socks)",verb,새 운동화를 신었어요.,I put on my new sneakers.,Clothes & Colors
+멋있다,"to be stylish, cool-looking",adjective,그 옷이 멋있어요.,Those clothes look cool.,Clothes & Colors
+어울리다,"to suit, to look good on",verb,그 모자가 잘 어울려요.,That hat looks good on you.,Clothes & Colors
+색,color,noun,무슨 색을 좋아해요?,What color do you like?,Clothes & Colors
+빨간색,red,noun,빨간색 가방을 샀어요.,I bought a red bag.,Clothes & Colors
+파란색,blue,noun,파란색 바지를 입고 있어요.,I'm wearing blue pants.,Clothes & Colors
+노란색,yellow,noun,노란색 꽃이 피었어요.,Yellow flowers have bloomed.,Clothes & Colors
+까만색,black,noun,까만색 구두를 신어요.,I wear black dress shoes.,Clothes & Colors
+하얀색,white,noun,하얀색 티셔츠가 예뻐요.,The white T-shirt is pretty.,Clothes & Colors
+일,"work, a job (what you do)",noun,일이 많아서 바빠요.,I'm busy because I have a lot of work.,Work & Jobs
+직업,"occupation, profession",noun,직업이 뭐예요?,What is your job?,Work & Jobs
+회사원,office worker,noun,저는 회사원이에요.,I am an office worker.,Work & Jobs
+사무실,office (room),noun,사무실이 삼 층에 있어요.,The office is on the third floor.,Work & Jobs
+회의,meeting,noun,두 시에 회의가 있어요.,I have a meeting at two.,Work & Jobs
+직원,"employee, staff",noun,가게 직원에게 물어보세요.,Ask the store staff.,Work & Jobs
+사장님,"boss, company president",noun,사장님께 인사했어요.,I greeted the boss.,Work & Jobs
+경찰,"police, police officer",noun,경찰에 전화했어요.,I called the police.,Work & Jobs
+요리사,"cook, chef",noun,제 꿈은 요리사예요.,My dream is to be a chef.,Work & Jobs
+가수,singer,noun,그 가수를 좋아해요.,I like that singer.,Work & Jobs
+월급,monthly salary,noun,월급을 받았어요.,I got my salary.,Work & Jobs
+출근하다,to go to work,verb,아홉 시까지 출근해요.,I get to work by nine.,Work & Jobs
+퇴근하다,to leave work,verb,여섯 시에 퇴근해요.,I leave work at six.,Work & Jobs
+일하다,to work,verb,은행에서 일해요.,I work at a bank.,Work & Jobs
+바쁘다,to be busy,adjective,요즘 너무 바빠요.,I'm very busy these days.,Work & Jobs
+전화,"telephone, phone call",noun,전화를 받으세요.,Please answer the phone.,Work & Jobs
+메일,email,noun,메일을 보냈어요.,I sent an email.,Work & Jobs
+준비하다,to prepare,verb,회의를 준비해요.,I'm preparing for the meeting.,Work & Jobs
+끝나다,"to end, to be over",verb,일이 일찍 끝났어요.,Work finished early.,Work & Jobs
+시작하다,"to start, to begin",verb,새 일을 시작했어요.,I started a new job.,Work & Jobs
+취미,hobby,noun,취미가 뭐예요?,What is your hobby?,Hobbies & Free Time
+운동,"exercise, sports",noun,저는 운동을 좋아해요.,I like exercising.,Hobbies & Free Time
+축구,"soccer, football",noun,친구들과 축구를 해요.,I play soccer with my friends.,Hobbies & Free Time
+수영,swimming,noun,수영을 배우고 있어요.,I'm learning to swim.,Hobbies & Free Time
+노래,song,noun,노래를 잘 불러요.,I sing well.,Hobbies & Free Time
+음악,music,noun,음악을 들으면서 공부해요.,I study while listening to music.,Hobbies & Free Time
+영화,"movie, film",noun,영화를 보러 갈까요?,Shall we go see a movie?,Hobbies & Free Time
+사진,"photo, photograph",noun,사진을 찍어 주세요.,Please take a picture.,Hobbies & Free Time
+그림,"drawing, painting",noun,그림을 그리고 있어요.,I'm drawing a picture.,Hobbies & Free Time
+게임,game,noun,동생과 게임을 해요.,I play games with my younger sibling.,Hobbies & Free Time
+산,mountain,noun,주말에 산에 가요.,I go to the mountains on weekends.,Hobbies & Free Time
+등산,"hiking, mountain climbing",noun,아버지와 등산을 했어요.,I went hiking with my father.,Hobbies & Free Time
+춤,dance,noun,춤을 추는 것을 좋아해요.,I like dancing.,Hobbies & Free Time
+피아노,piano,noun,피아노를 칠 수 있어요.,I can play the piano.,Hobbies & Free Time
+산책,"walk, stroll",noun,저녁에 산책을 해요.,I take a walk in the evening.,Hobbies & Free Time
+듣다,"to listen, to hear",verb,라디오를 들어요.,I listen to the radio.,Hobbies & Free Time
+보다,"to see, to watch",verb,텔레비전을 봐요.,I watch TV.,Hobbies & Free Time
+놀다,"to hang out, to have fun",verb,친구 집에서 놀았어요.,I hung out at my friend's house.,Hobbies & Free Time
+좋아하다,to like,verb,고양이를 좋아해요.,I like cats.,Hobbies & Free Time
+재미있다,"to be fun, interesting",adjective,이 드라마는 재미있어요.,This drama is interesting.,Hobbies & Free Time
+여행,"trip, travel",noun,제주도로 여행을 가요.,I'm going on a trip to Jeju Island.,Travel
+여권,passport,noun,여권을 잊지 마세요.,Don't forget your passport.,Travel
+호텔,hotel,noun,호텔을 예약했어요.,I booked a hotel.,Travel
+공항,airport,noun,공항까지 한 시간 걸려요.,It takes an hour to get to the airport.,Travel
+표,ticket,noun,표를 두 장 샀어요.,I bought two tickets.,Travel
+지도,map,noun,지도를 보면서 걸어요.,I walk while looking at the map.,Travel
+바다,"sea, ocean",noun,바다가 정말 아름다워요.,The sea is really beautiful.,Travel
+외국,foreign country,noun,외국에서 살고 싶어요.,I want to live abroad.,Travel
+나라,"country, nation",noun,어느 나라 사람이에요?,Which country are you from?,Travel
+짐,"luggage, baggage",noun,짐이 너무 많아요.,I have too much luggage.,Travel
+관광,"sightseeing, tourism",noun,시내 관광을 했어요.,I went sightseeing downtown.,Travel
+휴가,"vacation, time off",noun,휴가 때 여행을 가요.,I travel during my vacation.,Travel
+경치,"scenery, view",noun,여기는 경치가 좋아요.,The view here is nice.,Travel
+예약하다,"to reserve, to book",verb,식당을 예약했어요.,I reserved a table at a restaurant.,Travel
+출발하다,to depart (opposite of arrive),verb,기차가 곧 출발해요.,The train is leaving soon.,Travel
+도착하다,to arrive,verb,방금 도착했어요.,I just arrived.,Travel
+구경하다,to look around (a place),verb,시장을 구경했어요.,I looked around the market.,Travel
+떠나다,"to leave, to go away",verb,내일 여행을 떠나요.,I'm leaving on a trip tomorrow.,Travel
+찍다,to take (a photo),verb,바다 사진을 찍었어요.,I took pictures of the sea.,Travel
+즐겁다,"to be enjoyable, fun",adjective,여행이 즐거웠어요.,The trip was enjoyable.,Travel
+한국,Korea,noun,한국에 친구가 있어요.,I have a friend in Korea.,Countries & Languages
+미국,the United States,noun,미국에서 왔어요.,I'm from the United States.,Countries & Languages
+일본,Japan,noun,일본은 한국과 가까워요.,Japan is close to Korea.,Countries & Languages
+중국,China,noun,중국 음식을 좋아해요.,I like Chinese food.,Countries & Languages
+영어,English (language),noun,영어를 조금 해요.,I speak a little English.,Countries & Languages
+외국어,foreign language,noun,외국어를 배우고 싶어요.,I want to learn a foreign language.,Countries & Languages
+외국인,foreigner,noun,외국인 친구가 많아요.,I have many foreign friends.,Countries & Languages
+유학,studying abroad,noun,한국으로 유학을 왔어요.,I came to Korea to study.,Countries & Languages
+유학생,international student,noun,저는 유학생이에요.,I'm an international student.,Countries & Languages
+대사관,embassy,noun,대사관에 전화했어요.,I called the embassy.,Countries & Languages
+말,"speech, what someone says",noun,말이 너무 빨라요.,You're talking too fast.,Countries & Languages
+글,"writing, text",noun,이 글을 읽어 보세요.,Try reading this text.,Countries & Languages
+글자,"letter (of an alphabet), character",noun,이 글자를 읽을 수 있어요?,Can you read this character?,Countries & Languages
+뜻,meaning,noun,이 단어는 무슨 뜻이에요?,What does this word mean?,Countries & Languages
+이야기,"story, chat",noun,재미있는 이야기를 들었어요.,I heard an interesting story.,Countries & Languages
+대화,conversation,noun,친구와 대화를 했어요.,I had a conversation with a friend.,Countries & Languages
+설명,explanation,noun,선생님 설명이 쉬워요.,The teacher's explanation is easy to understand.,Countries & Languages
+연습,practice,noun,매일 쓰기 연습을 해요.,I practice writing every day.,Countries & Languages
+외우다,to memorize,verb,단어를 외우고 있어요.,I'm memorizing words.,Countries & Languages
+묻다,to ask,verb,길을 물었어요.,I asked for directions.,Countries & Languages
+동물,animal,noun,어떤 동물을 좋아해요?,What animals do you like?,Animals & Nature
+개,dog,noun,개가 공원에서 뛰어요.,A dog is running in the park.,Animals & Nature
+강아지,puppy,noun,강아지가 정말 귀여워요.,The puppy is really cute.,Animals & Nature
+고양이,cat,noun,고양이가 자고 있어요.,The cat is sleeping.,Animals & Nature
+토끼,rabbit,noun,토끼가 정말 빨라요.,The rabbit is really fast.,Animals & Nature
+새,bird,noun,나무 위에 새가 있어요.,There is a bird in the tree.,Animals & Nature
+물고기,fish (animal),noun,강에 물고기가 많아요.,There are many fish in the river.,Animals & Nature
+동물원,zoo,noun,주말에 동물원에 갔어요.,I went to the zoo on the weekend.,Animals & Nature
+꽃,flower,noun,생일에 꽃을 받았어요.,I got flowers for my birthday.,Animals & Nature
+나무,tree,noun,공원에 나무가 많아요.,There are many trees in the park.,Animals & Nature
+강,river,noun,강에서 수영했어요.,I swam in the river.,Animals & Nature
+호수,lake,noun,호수 옆을 걸었어요.,I walked beside the lake.,Animals & Nature
+섬,island,noun,제주도는 큰 섬이에요.,Jeju is a big island.,Animals & Nature
+바닷가,"beach, seaside",noun,바닷가를 산책해요.,I take a walk along the beach.,Animals & Nature
+해,sun,noun,해가 졌어요.,The sun has set.,Animals & Nature
+별,star,noun,하늘에 별이 많아요.,There are many stars in the sky.,Animals & Nature
+피다,to bloom,verb,장미가 피었어요.,The roses have bloomed.,Animals & Nature
+날다,to fly,verb,새가 하늘을 날아요.,A bird is flying in the sky.,Animals & Nature
+기르다,"to raise, to keep (a pet, a plant)",verb,집에서 고양이를 길러요.,I keep a cat at home.,Animals & Nature
+자라다,"to grow (up), to get bigger",verb,나무가 많이 자랐어요.,The tree has grown a lot.,Animals & Nature
+기분,"mood, feeling",noun,오늘 기분이 좋아요.,I'm in a good mood today.,Feelings & Personality
+마음,"heart, mind",noun,마음이 따뜻한 사람이에요.,(He/She) is a warm-hearted person.,Feelings & Personality
+기쁘다,"to be glad, pleased (about something)",adjective,선물을 받아서 기뻐요.,I'm glad I got a present.,Feelings & Personality
+슬프다,to be sad,adjective,영화가 너무 슬퍼요.,The movie is so sad.,Feelings & Personality
+행복하다,to be happy,adjective,지금 정말 행복해요.,I'm really happy now.,Feelings & Personality
+화나다,to get angry,verb,친구가 화났어요.,My friend got angry.,Feelings & Personality
+무섭다,"to be scary, afraid",adjective,이 영화는 무서워요.,This movie is scary.,Feelings & Personality
+걱정,"worry, concern",noun,요즘 걱정이 많아요.,I have a lot of worries these days.,Feelings & Personality
+외롭다,to be lonely,adjective,혼자 있어서 외로워요.,I'm lonely because I'm alone.,Feelings & Personality
+심심하다,to be bored,adjective,할 일이 없어서 심심해요.,I'm bored because I have nothing to do.,Feelings & Personality
+친절하다,"to be kind, helpful (to others)",adjective,직원이 아주 친절해요.,The staff are very kind.,Feelings & Personality
+착하다,to be good-hearted (of character),adjective,제 동생은 착해요.,My younger sibling is good-natured.,Feelings & Personality
+웃다,"to laugh, to smile",verb,아기가 웃어요.,The baby is smiling.,Feelings & Personality
+울다,to cry,verb,아이가 울고 있어요.,The child is crying.,Feelings & Personality
+좋다,"to be good, nice",adjective,이 노래가 좋아요.,I like this song.,Feelings & Personality
+싫다,"to dislike, to not want",adjective,저는 비가 싫어요.,I don't like rain.,Feelings & Personality
+놀라다,to be surprised,verb,그 소식에 놀랐어요.,I was surprised by the news.,Feelings & Personality
+부끄럽다,"to be embarrassed, shy",adjective,실수해서 부끄러워요.,I'm embarrassed because I made a mistake.,Feelings & Personality
+고맙다,to be thankful,adjective,도와줘서 고마워요.,Thank you for helping me.,Feelings & Personality
+미안하다,to be sorry,adjective,늦어서 미안해요.,Sorry I'm late.,Feelings & Personality
+약속,"appointment, plans, promise",noun,오늘 친구와 약속이 있어요.,I have plans with a friend today.,Plans & Errands
+초대,invitation,noun,친구 생일 파티에 초대를 받았어요.,I was invited to a friend's birthday party.,Plans & Errands
+축하,congratulations,noun,생일 축하해요.,Happy birthday.,Plans & Errands
+인사,greeting,noun,선생님께 인사를 드렸어요.,I greeted the teacher.,Plans & Errands
+부탁,"favor, request",noun,부탁이 하나 있어요.,I have a favor to ask.,Plans & Errands
+연락,"contact, getting in touch",noun,나중에 연락할게요.,I'll contact you later.,Plans & Errands
+전화번호,phone number,noun,전화번호가 뭐예요?,What's your phone number?,Plans & Errands
+주소,address,noun,주소를 써 주세요.,Please write your address.,Plans & Errands
+편의점,convenience store,noun,편의점에서 물을 샀어요.,I bought water at the convenience store.,Plans & Errands
+마트,supermarket,noun,마트에서 우유를 샀어요.,I bought milk at the supermarket.,Plans & Errands
+영수증,receipt,noun,영수증 주세요.,"A receipt, please.",Plans & Errands
+현금,cash,noun,현금으로 낼게요.,I'll pay in cash.,Plans & Errands
+할인,discount,noun,오늘은 할인을 해요.,There's a discount today.,Plans & Errands
+아르바이트,part-time job,noun,주말에 아르바이트를 해요.,I work a part-time job on weekends.,Plans & Errands
+소포,"parcel, package",noun,어머니께 소포를 보냈어요.,I sent a package to my mother.,Plans & Errands
+우표,postage stamp,noun,편지에 우표를 붙여요.,I put a stamp on the letter.,Plans & Errands
+자동차,car,noun,새 자동차를 샀어요.,I bought a new car.,Plans & Errands
+운전,driving,noun,운전을 배우고 있어요.,I'm learning to drive.,Plans & Errands
+주차장,parking lot,noun,주차장이 어디예요?,Where is the parking lot?,Plans & Errands
+교통,"transportation, traffic",noun,서울은 교통이 편해요.,Transportation in Seoul is convenient.,Plans & Errands
+모르다,to not know,verb,길을 잘 몰라요.,I don't really know the way.,More Common Verbs
+되다,to become,verb,의사가 되고 싶어요.,I want to become a doctor.,More Common Verbs
+나오다,to come out,verb,친구가 집에서 나왔어요.,My friend came out of the house.,More Common Verbs
+들어오다,to come in,verb,들어오세요.,"Come in, please.",More Common Verbs
+넣다,to put in,verb,가방에 책을 넣어요.,I put the book in my bag.,More Common Verbs
+꺼내다,to take out,verb,지갑에서 돈을 꺼냈어요.,I took money out of my wallet.,More Common Verbs
+놓다,"to put down, to place",verb,책을 책상 위에 놓으세요.,Please put the book on the desk.,More Common Verbs
+켜다,to turn on,verb,불을 켜 주세요.,Please turn on the light.,More Common Verbs
+끄다,to turn off,verb,텔레비전을 꺼 주세요.,Please turn off the TV.,More Common Verbs
+빌리다,to borrow,verb,도서관에서 책을 빌렸어요.,I borrowed a book from the library.,More Common Verbs
+잊다,to forget,verb,약속을 잊었어요.,I forgot about our plans.,More Common Verbs
+기억하다,to remember,verb,제 이름을 기억해요?,Do you remember my name?,More Common Verbs
+부르다,"to call (a name, a taxi), to sing (a song)",verb,친구 이름을 불렀어요.,I called my friend's name.,More Common Verbs
+버리다,to throw away,verb,쓰레기를 버려요.,I throw away the trash.,More Common Verbs
+고치다,"to fix, to repair",verb,컴퓨터를 고쳤어요.,I fixed the computer.,More Common Verbs
+보이다,"to be visible, can be seen",verb,여기서 바다가 보여요.,You can see the sea from here.,More Common Verbs
+들리다,"to be audible, can be heard",verb,음악 소리가 들려요.,I can hear music.,More Common Verbs
+뛰다,"to run, to jump",verb,아이들이 뛰고 있어요.,The children are running.,More Common Verbs
+눕다,to lie down,verb,침대에 누워요.,I lie down on the bed.,More Common Verbs
+일어서다,to stand up,verb,모두 일어서세요.,"Everyone, please stand up.",More Common Verbs
+높다,"to be high, tall (mountain, building)",adjective,산이 정말 높아요.,The mountain is really high.,More Adjectives: Opposites
+낮다,to be low,adjective,이 의자는 너무 낮아요.,This chair is too low.,More Adjectives: Opposites
+넓다,"to be wide, spacious",adjective,거실이 넓어요.,The living room is spacious.,More Adjectives: Opposites
+좁다,"to be narrow, cramped",adjective,길이 좁아요.,The road is narrow.,More Adjectives: Opposites
+무겁다,to be heavy,adjective,짐이 너무 무거워요.,The luggage is too heavy.,More Adjectives: Opposites
+가볍다,to be light (weight),adjective,이 가방은 가벼워요.,This bag is light.,More Adjectives: Opposites
+밝다,to be bright,adjective,방이 아주 밝아요.,The room is very bright.,More Adjectives: Opposites
+어둡다,to be dark,adjective,밖이 벌써 어두워요.,It's already dark outside.,More Adjectives: Opposites
+깨끗하다,to be clean,adjective,방이 깨끗해요.,The room is clean.,More Adjectives: Opposites
+더럽다,to be dirty,adjective,신발이 더러워요.,My shoes are dirty.,More Adjectives: Opposites
+뜨겁다,to be hot (to the touch),adjective,커피가 뜨거워요.,The coffee is hot.,More Adjectives: Opposites
+차갑다,to be cold (to the touch),adjective,물이 차가워요.,The water is cold.,More Adjectives: Opposites
+같다,to be the same,adjective,우리는 나이가 같아요.,We are the same age.,More Adjectives: Opposites
+다르다,to be different,adjective,언니와 저는 성격이 달라요.,My older sister and I have different personalities.,More Adjectives: Opposites
+재미없다,to be boring,adjective,그 영화는 재미없어요.,That movie is boring.,More Adjectives: Opposites
+반갑다,to be glad (to see someone),adjective,만나서 반가워요.,Nice to meet you.,More Adjectives: Opposites
+시끄럽다,to be noisy,adjective,교실이 시끄러워요.,The classroom is noisy.,More Adjectives: Opposites
+편하다,"to be comfortable, convenient",adjective,이 신발은 편해요.,These shoes are comfortable.,More Adjectives: Opposites
+불편하다,"to be uncomfortable, inconvenient",adjective,의자가 좀 불편해요.,The chair is a little uncomfortable.,More Adjectives: Opposites
+어리다,to be young (a child),adjective,제 동생은 아직 어려요.,My younger sibling is still young.,More Adjectives: Opposites
