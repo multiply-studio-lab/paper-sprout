@@ -1,2 +1,5 @@
-# paper-sprout
-Paper Sprout Korean: free worksheets and resources for beginner Korean learners
+# Paper Sprout Korean
+
+Free worksheets and resources for beginner Korean learners.
+
+Site: https://multiply-studio-lab.github.io/paper-sprout/
