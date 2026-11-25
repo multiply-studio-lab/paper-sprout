@@ -74,13 +74,13 @@ footer{padding:32px 0;color:var(--muted);font-size:14px;border-top:1px solid var
         <span class="tag">PDF · 6 pages</span>
         <h3>Hangul Writing Practice: first consonants</h3>
         <p>Stroke-order diagrams with arrows, tracing rows, syllables and first words for ㄱ ㄴ ㄷ and more.</p>
-        <a class="btn" href="samples/hangul-writing-sample.pdf" download>Download</a>
+        <a class="btn" href="samples/hangul-writing-sample.pdf" download data-goatcounter-click="download-hangul-writing-sample" data-goatcounter-title="Download: Hangul writing sample">Download</a>
       </div>
       <div class="card">
         <span class="tag">PDF · 5 pages</span>
         <h3>Korean Word Search: 2 puzzles + solutions</h3>
         <p>Large-print 12×12 grids, 10 everyday words each, with English meanings.</p>
-        <a class="btn" href="samples/korean-word-search-sample.pdf" download>Download</a>
+        <a class="btn" href="samples/korean-word-search-sample.pdf" download data-goatcounter-click="download-word-search-sample" data-goatcounter-title="Download: Word search sample">Download</a>
       </div>
     </div>
   </section>
@@ -121,5 +121,6 @@ fetch('words.json').then(r=>r.json()).then(ws=>{
   for (const [id,v] of [['w-ko',w[0]],['w-en',w[1]],['s-ko',w[2]],['s-en',w[3]]]) document.getElementById(id).textContent=v;
 }).catch(()=>{});
 </script>
+<script data-goatcounter="https://papersprout.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
